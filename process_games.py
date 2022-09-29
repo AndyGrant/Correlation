@@ -8,8 +8,8 @@ import multiprocessing
 from subprocess import Popen, PIPE
 
 THREADS = multiprocessing.cpu_count()
-PLAYERS = ['Carlsen', 'Engines', 'Firouzja', 'Giri', 'Liren', 'Nakamura', 'Nepomniachtchi', 'Niemann', 'So']
-ENGINE  = 'Engines/Stockfish-15'
+PLAYERS = ['Carlsen', 'Firouzja', 'Giri', 'Liren', 'Nakamura', 'Nepomniachtchi', 'Niemann', 'So']
+ENGINE  = './Ethereal-13.00'
 
 class Engine():
 
@@ -48,6 +48,10 @@ def process_pgns(player, filenames, engine_name):
         except: print ('Error processing %s/%s' % (player, filename))
 
 def process_pgn(player, filename, engine_name):
+
+    if os.path.exists('%s-%s.analysis' % (player, filename)):
+        print ('Skipped')
+        return
 
     start_time = time.time()
 

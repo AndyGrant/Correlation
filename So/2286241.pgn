@@ -1,0 +1,16 @@
+[Event "Norway Chess"]
+[Site "Stavanger NOR"]
+[Date "2022.05.31"]
+[EventDate "2022.05.31"]
+[Round "1"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Teimour Radjabov"]
+[ECO "C50"]
+[WhiteElo "2766"]
+[BlackElo "2753"]
+[Source "Lichess"]
+[PlyCount "76"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a5 7. Re1 O-O 8. h3 h6 9. Nbd2 Be6 10. Bb5 Nd7 11. Nf1 d5 12. Be3 dxe4 13. dxe4 Qe7 14. Qe2 Rfd8 15. Red1 a4 16. Qc2 a3 17. b4 Bd6 18. N1d2 Nb6 19. Bxb6 cxb6 20. Bc4 Rdc8 21. Qd3 Nd8 22. Bxe6 Qxe6 23. Nf1 Bf8 24. Ne3 f6 25. Nd5 Nf7 26. Nd2 Ra6 27. Rab1 b5 28. Qxb5 Nd6 29. Qd3 b5 30. Rbc1 Rac6 31. Rc2 f5 32. exf5 Nxf5 33. Nb3 Rc4 34. Na5 e4 35. Re2 Re8 36. Nxc4 exd3 37. Rxe6 Rxe6 38. Nxa3 1-0
+

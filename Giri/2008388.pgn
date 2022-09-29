@@ -1,0 +1,26 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Anton Korobov"]
+[Black "Anish Giri"]
+[ECO "E54"]
+[WhiteElo "2794"]
+[BlackElo "2731"]
+[Source "Chess-Results"]
+[PlyCount "119"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 dxc4
+7. Bxc4 c5 8. O-O cxd4 9. exd4 b6 10. Bg5 Bb7 11. Rc1 Nbd7
+12. Re1 Rc8 13. Bd3 h6 14. Bh4 Be7 15. Bb1 b5 16. a3 a5
+17. Nxb5 Rxc1 18. Qxc1 Bxf3 19. gxf3 Qb8 20. Bd3 Rc8 21. Qd2
+Nd5 22. Bg3 Bg5 23. Qxa5 Nf4 24. Bf1 e5 25. Qa7 Qxa7 26. Nxa7
+Rc2 27. dxe5 Nh5 28. b4 Nb6 29. b5 Be7 30. Rd1 g5 31. Nc6 Bc5
+32. Rd8+ Kg7 33. Nd4 Rc3 34. e6 Nxg3 35. hxg3 Rxa3 36. Nf5+
+Kf6 37. exf7 Kxf7 38. Nxh6+ Ke7 39. Rd3 Ra2 40. Ng4 Rb2
+41. Rd1 Ke6 42. Kg2 Ke7 43. Re1+ Kd6 44. Re2 Rxe2 45. Bxe2 Nd5
+46. Bc4 Nb6 47. Bb3 Bb4 48. Nf6 Ke5 49. Nh7 Bd2 50. Kh3 Nd7
+51. Kg4 Nf6+ 52. Nxf6 Kxf6 53. b6 Ba5 54. b7 Bc7 55. Kh5 Bb8
+56. f4 gxf4 57. g4 Bc7 58. g5+ Kg7 59. f3 Bb8 60. Kg4 1-0

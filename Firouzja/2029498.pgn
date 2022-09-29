@@ -1,0 +1,21 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.14"]
+[EventDate "2021.03.13"]
+[Round "10.5"]
+[Result "0-1"]
+[White "Alan Pichot"]
+[Black "Alireza Firouzja"]
+[ECO "A07"]
+[WhiteElo "2630"]
+[BlackElo "2759"]
+[PlyCount "78"]
+
+1. e4 c6 2. Nf3 d5 3. d3 g6 4. Qe2 Bg7 5. g3 Bg4 6. Bg2 e6
+7. O-O Ne7 8. h3 Bxf3 9. Bxf3 O-O 10. Bg2 a5 11. Kh2 a4 12. a3
+Re8 13. f4 c5 14. c3 Nbc6 15. Be3 Qb6 16. Qc2 d4 17. Bg1 Qb3
+18. Rc1 Red8 19. Qxb3 axb3 20. e5 g5 21. Be4 gxf4 22. gxf4 Bh6
+23. Rf1 Ng6 24. Kg3 Kh8 25. Nd2 dxc3 26. Nxb3 cxb2 27. Rab1 c4
+28. dxc4 Rxa3 29. Rxb2 Na5 30. Bb6 Nxb3 31. Rf3 Bxf4+ 32. Kg4
+Bxe5 33. Bxg6 Bxb2 34. Rxf7 hxg6 35. Bxd8 Nc5 36. Bb6 Ne4
+37. Rxb7 Be5 38. Bd8 Rg3+ 39. Kh4 Nd6 0-1

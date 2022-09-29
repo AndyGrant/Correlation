@@ -1,0 +1,25 @@
+[Event "FTX Crypto Cup"]
+[Site "chess24.com INT"]
+[Date "2021.05.23"]
+[EventDate "2021.05.23"]
+[Round "1.6"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Alexander Grischuk"]
+[ECO "D32"]
+[WhiteElo "2770"]
+[BlackElo "2776"]
+[PlyCount "117"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qxd4 Nc6 6. Qd1
+exd5 7. Qxd5 Bd6 8. Bg5 Nge7 9. Qd2 h6 10. Rd1 hxg5 11. Qxd6
+Qb6 12. Qa3 O-O 13. e3 Nb4 14. Qa4 Bf5 15. e4 Be6 16. a3 Na2
+17. Nxa2 Bxa2 18. Qb5 Qe6 19. Bd3 Rfd8 20. Ne2 Nc6 21. O-O Ne5
+22. Nc1 Nxd3 23. Nxa2 a6 24. Qxb7 Nf4 25. Nc3 Rdb8 26. Qd7
+Rxb2 27. Qxe6 fxe6 28. g3 Ng6 29. Rd6 Kf7 30. Rd7+ Kf6 31. Rc7
+Rd8 32. Rc6 Kf7 33. Rc7+ Kf6 34. Rc6 Kf7 35. Na4 Re2 36. Nc5
+Ne5 37. Rxa6 Nf3+ 38. Kg2 g4 39. Ra7+ Kf6 40. Ra6 Rdd2
+41. Nxe6 Kf7 42. Nf4 Rxe4 43. h3 Ne1+ 44. Rxe1 Rxe1 45. hxg4
+Ra2 46. g5 Kf8 47. g6 Re8 48. Ne6+ Kg8 49. Ra7 Kh8 50. Nd4 Rf8
+51. Nf5 Rb2 52. g4 Rg8 53. Re7 Rb6 54. Re1 Rgb8 55. Rh1+ Kg8
+56. Rd1 Kf8 57. Rh1 Kg8 58. Ne7+ Kf8 59. Nd5 1-0

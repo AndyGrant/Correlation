@@ -1,0 +1,24 @@
+[Event "All Pools | Berlin FIDE Grand Prix"]
+[Site "Berlin GER"]
+[Date "2022.02.04"]
+[EventDate "?"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White " So, Wesley"]
+[Black " Dominguez Perez, Leinier"]
+[ECO "D20"]
+[WhiteElo "2772"]
+[BlackElo "2752"]
+[PlyCount "68"]
+
+1. d4   d5   2. c4   dxc4   3. e4   b5   4. a4   c6
+  5. axb5   cxb5   6. Nc3   Qb6   7. b3   e6   8. bxc4
+  Bb4   9. Bd2   bxc4   10. Nf3   Ne7   11. Bxc4
+O-O   12. O-O   a5   13. d5   Ba6   14. Na4   Qd8   15.
+Bxa6   Rxa6   16. dxe6   Rxe6   17. Bxb4   axb4   18. Qxd8   Rxd8   19. Nc5   Rc6   20.
+Rfc1   Rdc8   21. Nb3   Rxc1+   22. Rxc1   Rxc1+   23. Nxc1   f5   24. exf5   Nxf5   25.
+Kf1   Nc6   26. Ke2   Kf7   27. Kd3   Nd6   28. Ne2
+Kf6   29. Ned4   Nxd4   30. Nxd4
+  Nf5   31. Nf3   Nd6   32. Nd4   Nf5   33. Nf3
+Nd6   34. Nd4   1/2-1/2
+

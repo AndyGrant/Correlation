@@ -1,0 +1,23 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "2"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Rinat Jumabayev"]
+[ECO "E11"]
+[WhiteElo "2731"]
+[BlackElo "2562"]
+[Source "Chess-Results"]
+[PlyCount "83"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 c5 5. e3 b6 6. Be2 Bb7
+7. O-O O-O 8. Bxb4 cxb4 9. a3 bxa3 10. Rxa3 a5 11. Ne5 Na6
+12. Nd2 d6 13. Nd3 Qc7 14. Bf3 Rfc8 15. Bxb7 Qxb7 16. Qa4 d5
+17. Rb3 Qc7 18. Rc1 Nb4 19. Nxb4 axb4 20. Qb5 Ra5 21. Qxb4
+dxc4 22. Qxb6 Qxb6 23. Rxb6 Nd5 24. Rb7 g6 25. g3 c3 26. Ne4
+c2 27. Nd6 Rc6 28. Nxf7 Nf6 29. Ne5 Rc8 30. Nd3 Ra4 31. Rb4
+Ra2 32. Nc5 Nd5 33. Rb7 e5 34. Rxc2 exd4 35. exd4 Ra1+ 36. Kg2
+Re1 37. Rd2 g5 38. Nd3 Rb1 39. Re2 g4 40. Re5 Nf6 41. Rg5+ Kh8
+42. Ne5 1-0

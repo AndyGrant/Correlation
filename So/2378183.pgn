@@ -1,0 +1,24 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.17"]
+[EventDate "2022.09.14"]
+[Round "9.5"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Wesley So"]
+[ECO "?"]
+[WhiteElo "2758"]
+[BlackElo "2771"]
+[PlyCount "92"]
+[SetUp "1"]
+[FEN "rnkqnrbb/pppppppp/8/8/8/8/PPPPPPPP/RNKQNRBB w FAfa - 0 1"]
+
+1. g4 g6 2. f4 f5 3. gxf5 gxf5 4. c3 d6 5. d3 Qd7 6. Nd2 c5 7. a4 Nc6 8. a5
+Nc7 9. Qa4 Bd5 10. Bxd5 Nxd5 11. Nc2 O-O-O 12. Ne3 Nxe3 13. Bxe3 Kc7 14.
+Qa2 Rg8 15. Nf3 Bf6 16. O-O-O e6 17. Rg1 Qe7 18. Bf2 d5 19. Qa3 b6 20. d4
+c4 21. axb6+ axb6 22. Qxe7+ Nxe7 23. Ng5 Bxg5 24. fxg5 f4 25. Rg4 Rdf8 26.
+Rdg1 Kd7 27. h4 Rf5 28. h5 Nc8 29. Be1 Nd6 30. Bd2 Rgf8 31. g6 Rxh5 32. g7
+Rg8 33. Bxf4 Nf5 34. Kd2 Ke8 35. Be5 Ne7 36. Ra1 Nc6 37. Bd6 Rf5 38. Bf8
+Rf7 39. Ra6 Rb7 40. Rh4 Nb8 41. Ra8 h5 42. Bd6 Kf7 43. Be5 Kg6 44. Rf4
+Rbxg7 45. Rxb8 Rxb8 46. Bxb8 1-0
+

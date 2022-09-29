@@ -1,0 +1,25 @@
+[Event "Champions Showdown Chess 9LX"]
+[Site "lichess.org INT"]
+[Date "2020.09.11"]
+[EventDate "2020.09.11"]
+[Round "3.5"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Fabiano Caruana"]
+[ECO "000"]
+[WhiteElo "2863"]
+[BlackElo "2835"]
+[Source "TWIC"]
+[PlyCount "87"]
+[SetUp "1"]
+[FEN "qnrkbrnb/pppppppp/8/8/8/8/PPPPPPPP/QNRKBRNB w FCfc - 0 1"]
+
+1. Nf3 g6 2. g3 c5 3. d3 Nc6 4. Bc3 Nf6 5. O-O d6 6. Nbd2 Bd7
+7. b3 e5 8. Nc4 Qb8 9. a4 O-O 10. e3 Bh3 11. Rfe1 h6 12. Nfd2
+Rcd8 13. Rb1 Qc7 14. e4 Nd4 15. Ne3 Be6 16. Ndc4 Nh7 17. Bxd4
+cxd4 18. Nd5 Bxd5 19. exd5 f5 20. c3 dxc3 21. Qxc3 Qf7 22. Qd2
+f4 23. Be4 Ng5 24. Qe2 Qd7 25. Kh1 Rf6 26. Rg1 Rdf8 27. g4 Nh3
+28. f3 Nxg1 29. Rxg1 g5 30. h4 gxh4 31. Qf2 Qg7 32. Qxa7 Qe7
+33. Kh2 R6f7 34. Qb6 Rd8 35. Rc1 Bf6 36. Nd2 Rg7 37. Bf5 h5
+38. gxh5 e4 39. Nxe4 Bb2 40. Rc2 Ba3 41. h6 Rg3 42. Rc7 Qf8
+43. Bh7+ Kh8 44. Qd4+ 1-0

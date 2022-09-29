@@ -1,0 +1,20 @@
+[Event "FIDE Chess.com Online Nations Cup"]
+[Site "chess.com INT"]
+[Date "2020.05.06"]
+[EventDate "2020.05.05"]
+[Round "4.2"]
+[Result "1/2-1/2"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Hikaru Nakamura"]
+[ECO "D37"]
+[WhiteElo "2778"]
+[BlackElo "2736"]
+[PlyCount "61"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. Be2 dxc4 8. O-O c5 9. dxc5 Bxc5 10. Bxc4 a6 11. Ng5 h6
+12. Nge4 Be7 13. a4 Nxe4 14. Nxe4 Nf6 15. Qf3 Bd7 16. Nxf6+
+Bxf6 17. Qxb7 Qc8 18. Qb3 Ra7 19. Qa2 Bxb2 20. Rab1 Bf6
+21. Rfc1 Qa8 22. a5 Rc8 23. Bf1 Rxc1 24. Rxc1 Bb5 25. Rb1 Bd8
+26. Bxb5 axb5 27. Rxb5 Rxa5 28. Qxa5 Qxa5 29. Rxa5 Bxa5 30. g4
+Bd8 31. h3 1/2-1/2

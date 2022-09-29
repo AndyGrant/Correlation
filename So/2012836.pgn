@@ -1,0 +1,17 @@
+[Event "chess.com Speed Chess"]
+[Site "chess.com INT"]
+[Date "2020.11.08"]
+[EventDate "2020.11.01"]
+[Round "1.34"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Nodirbek Abdusattorov"]
+[ECO "B54"]
+[WhiteElo "2770"]
+[BlackElo "2627"]
+[PlyCount "36"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Bb5+ Bd7 6. Bxd7+
+Qxd7 7. Nf5 Nf6 8. Nc3 Nxe4 9. Nxg7+ Bxg7 10. Nxe4 d5 11. Bh6
+O-O 12. Bxg7 Kxg7 13. Qd2 dxe4 14. Qg5+ Kh8 15. Qf6+ Kg8
+16. Qg5+ Kh8 17. Qf6+ Kg8 18. Qg5+ Kh8 1/2-1/2

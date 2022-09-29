@@ -1,0 +1,18 @@
+[Event "St. Louis Rapid & Blitz"]
+[Site "lichess.org INT"]
+[Date "2020.09.16"]
+[EventDate "2020.09.15"]
+[Round "6"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Alexander Grischuk"]
+[ECO "D37"]
+[WhiteElo "2770"]
+[BlackElo "2777"]
+[PlyCount "41"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. Be2 dxc4 8. O-O c5 9. dxc5 Nxc5 10. Bxc4 Qxd1 11. Rfxd1 b6
+12. Bd6 Bxd6 13. Rxd6 Bb7 14. Rad1 Bxf3 15. gxf3 Nb7 16. R6d4
+Rfd8 17. f4 Rxd4 18. Rxd4 Kf8 19. Be2 Rd8 20. Rxd8+ Nxd8
+21. Bf3 1/2-1/2

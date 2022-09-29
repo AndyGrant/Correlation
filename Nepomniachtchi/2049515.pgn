@@ -1,0 +1,23 @@
+[Event "FTX Crypto Cup"]
+[Site "chess24.com INT"]
+[Date "2021.05.23"]
+[EventDate "2021.05.23"]
+[Round "1.5"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Daniil Dubov"]
+[ECO "A45"]
+[WhiteElo "2792"]
+[BlackElo "2710"]
+[PlyCount "95"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. Nb5 Na6 5. e3 Bg7 6. Nf3 O-O
+7. h3 Ne4 8. c3 c6 9. Na3 Nb8 10. Be2 Bf5 11. O-O Nd7 12. c4
+Nb6 13. Rc1 c5 14. Be5 Bxe5 15. dxe5 dxc4 16. Nxc4 Qxd1
+17. Rfxd1 Na4 18. g4 Be6 19. Bd3 Bxc4 20. Bxc4 Rad8 21. Rxd8
+Rxd8 22. Rc2 Nb6 23. Kg2 Kg7 24. Be2 Rd5 25. a3 a5 26. Bc4 Rd1
+27. Be2 Rd5 28. Kf1 e6 29. Ke1 Kf8 30. Bf1 Rd7 31. Ng1 c4
+32. Bxc4 Nc5 33. Be2 Nd3+ 34. Bxd3 Rxd3 35. Nf3 Rd7 36. Nd4 g5
+37. Ke2 h6 38. Nb5 Ke7 39. Nd6 f6 40. f4 gxf4 41. exf4 Nd5
+42. Kf3 fxe5 43. fxe5 a4 44. Rc8 Rd8 45. Rxd8 Kxd8 46. Nxb7+
+Ke7 47. Nc5 Nb6 48. Ke4 1-0

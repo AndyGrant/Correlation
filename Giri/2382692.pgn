@@ -1,0 +1,19 @@
+[Event "Chess.com Global Championship"]
+[Site "chess.com INT"]
+[Date "2022.09.24"]
+[EventDate "2022.09.14"]
+[Round "2.1"]
+[Result "1-0"]
+[White "A Giri"]
+[Black "Raunak Sadhwani"]
+[ECO "C50"]
+[WhiteElo "2764"]
+[BlackElo "2620"]
+[PlyCount "60"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a5 7. Re1 O-O 8. h3 h6
+9. Nbd2 Be6 10. Bb5 Qb8 11. Bxc6 bxc6 12. d4 exd4 13. cxd4 Bb6 14. Nf1 d5 15. e5
+Ne4 16. Be3 c5 17. dxc5 Bxc5 18. Bxc5 Nxc5 19. Nd4 Qxb2 20. Rc1 Qb6 21. Ng3 Rfe8
+22. Re3 Bd7 23. Ndf5 Bxf5 24. Nxf5 Rad8 25. Qg4 g6 26. Nxh6+ Kg7 27. Rf3 Kxh6
+28. Rxf7 Qb4 29. f4 Qd4+ 30. Kh2 1-0
+

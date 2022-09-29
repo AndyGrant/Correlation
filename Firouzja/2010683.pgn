@@ -1,0 +1,24 @@
+[Event "Norway Chess"]
+[Site "Stavanger NOR"]
+[Date "2020.10.05"]
+[EventDate "2020.10.05"]
+[Round "1.3"]
+[Result "0-1"]
+[White "Jan-Krzysztof Duda"]
+[Black "Alireza Firouzja"]
+[ECO "B18"]
+[WhiteElo "2757"]
+[BlackElo "2728"]
+[PlyCount "104"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6
+7. Nf3 Nd7 8. h5 Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6
+12. O-O-O Be7 13. Kb1 O-O 14. Ne4 c5 15. Be3 Nxe4 16. Qxe4 Nf6
+17. Qxb7 Nd5 18. Qa6 Rb8 19. Bd2 cxd4 20. Nxd4 Bf6 21. Nb3 Qc7
+22. Rhe1 Rfc8 23. Rc1 Nb6 24. Re4 Nc4 25. Bf4 Qb6 26. Qxb6
+Rxb6 27. Be3 Rb4 28. f3 a5 29. Rxc4 Rcxc4 30. Bd2 Rb5 31. Bxa5
+Rxh5 32. Rg1 Rb5 33. Bd2 h5 34. c3 g5 35. Kc2 g4 36. Nc1 g3
+37. b3 Rc8 38. a4 Rf5 39. Ne2 h4 40. c4 e5 41. Be3 Bg5
+42. Bxg5 Rxg5 43. Rh1 Rh5 44. Kc3 f5 45. b4 f4 46. a5 h3
+47. gxh3 e4 48. fxe4 g2 49. Rg1 Rxh3+ 50. Kd4 f3 51. c5 Kf7
+52. Nf4 f2 0-1

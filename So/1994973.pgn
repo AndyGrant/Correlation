@@ -1,0 +1,29 @@
+[Event "FIDE Chess.com Online Nations Cup"]
+[Site "chess.com INT"]
+[Date "2020.05.08"]
+[EventDate "2020.05.05"]
+[Round "7.1"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Sergey Karjakin"]
+[ECO "C65"]
+[WhiteElo "2770"]
+[BlackElo "2752"]
+[PlyCount "150"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. Nbd2
+Nd7 7. Nc4 f6 8. O-O O-O 9. c3 Re8 10. d4 exd4 11. cxd4 Bf8
+12. Re1 Nb6 13. b3 Be6 14. Qd3 Qd7 15. Bb2 Rad8 16. Rad1 Qf7
+17. Na5 Bc8 18. Nc4 Be6 19. Na5 Bc8 20. Nc4 c5 21. Nxb6 axb6
+22. Qe3 cxd4 23. Nxd4 Qg6 24. f3 Qh5 25. Qe2 Bd6 26. g4 Qh3
+27. Qg2 Qxg2+ 28. Kxg2 Be5 29. Bc3 c6 30. Ne2 Bc7 31. h4 Kf7
+32. h5 b5 33. Ng3 Rxd1 34. Rxd1 Be6 35. Nf5 Ra8 36. Rd2 Bf4
+37. Rc2 g6 38. Ng3 c5 39. Ne2 Bd6 40. hxg6+ hxg6 41. Be1 b4
+42. Bg3 Ke7 43. Bxd6+ Kxd6 44. Nf4 Bf7 45. Nd3 b6 46. f4 Ke7
+47. g5 Be6 48. Kf3 Rh8 49. gxf6+ Kxf6 50. Nf2 Rd8 51. Ng4+
+Bxg4+ 52. Kxg4 Rd1 53. e5+ Ke6 54. Rg2 b5 55. Kg5 Rf1 56. Rc2
+Rg1+ 57. Kh6 Rg4 58. Rxc5 Rxf4 59. Rxb5 Rg4 60. Ra5 Rg2
+61. Kg7 Rg3 62. Kh7 Rg2 63. Kh6 Rg3 64. Ra4 Rg2 65. Ra5 Rg3
+66. Kg7 Rg2 67. Kh7 Rg3 68. Ra4 Rg2 69. Rxb4 Rxa2 70. Re4 Ra5
+71. Kxg6 Rxe5 72. Rxe5+ Kxe5 73. Kh7 Kd4 74. b4 Kc4 75. Kh8
+Kxb4 1/2-1/2

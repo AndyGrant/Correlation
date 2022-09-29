@@ -1,0 +1,17 @@
+[Event "St. Louis Rapid & Blitz"]
+[Site "lichess.org INT"]
+[Date "2020.09.18"]
+[EventDate "2020.09.18"]
+[Round "7.1"]
+[Result "0-1"]
+[White "Levon Aronian"]
+[Black "Hikaru Nakamura"]
+[ECO "E06"]
+[WhiteElo "2773"]
+[BlackElo "2736"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4
+7. Qc2 a6 8. a4 Bd7 9. Qxc4 Bc6 10. Bf4 Bd6 11. Nc3 Bxf4
+12. gxf4 a5 13. Kh1 Na6 14. e3 Nb4 15. Qe2 Bxf3 16. Bxf3 c6
+17. Rg1 Qe7 18. Rg5 Kh8 19. Rag1 g6 20. Qc2 Nxc2 0-1

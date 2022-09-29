@@ -1,0 +1,22 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.17"]
+[EventDate "2021.03.13"]
+[Round "1.22"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "B67"]
+[WhiteElo "2776"]
+[BlackElo "2758"]
+[PlyCount "84"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. Kb1 Qc7
+12. Qd2 b5 13. g4 h5 14. gxh5 Nxh5 15. h4 b4 16. Ne2 a5 17. c3
+f6 18. Be3 e5 19. Bh3 Bxh3 20. Rxh3 Qc4 21. cxb4 axb4 22. b3
+Qe6 23. Rh2 f5 24. Bg5 fxe4 25. fxe4 O-O 26. Bxe7 Qxe7
+27. Qxb4 Qa7 28. Nc3 Nf6 29. Qxd6 Qe3 30. Qd3 Qc5 31. Nd5 Kh8
+32. Nxf6 Rxf6 33. h5 Raa6 34. Rc2 Qa3 35. Qg3 Qe7 36. Rdc1 Rf4
+37. Rc8+ Kh7 38. R8c6 Rxc6 39. Rxc6 Qd7 40. Rc1 Rg4 41. Qxe5
+Qd3+ 42. Ka1 Rg2 1-0

@@ -1,0 +1,16 @@
+[Event "Norway Chess"]
+[Site "Stavanger NOR"]
+[Date "2022.05.31"]
+[EventDate "2022.05.31"]
+[Round "1"]
+[Result "1/2-1/2"]
+[White "Anish Giri"]
+[Black "Veselin Topalov"]
+[ECO "E10"]
+[WhiteElo "2761"]
+[BlackElo "2730"]
+[Source "Lichess"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. O-O Nbd7 8. Qc2 c6 9. Bf4 b6 10. Nbd2 Nh5 11. e3 Nxf4 12. exf4 Bb7 13. cxd5 cxd5 14. Rfc1 Rc8 15. Qa4 a6 16. Qb3 b5 17. Rxc8 Qxc8 18. a4 bxa4 19. Qxa4 Nb6 20. Qd1 Nc4 21. Rc1 Qb8 22. Nxc4 dxc4 23. Qe2 Bf6 24. Rxc4 Bd5 25. Rc1 Bxf3 26. Bxf3 Bxd4 27. Ra1 Qxb2 28. Qxb2 Bxb2 29. Rxa6 g6 30. Kg2 Kg7 31. Ra8 Rxa8 32. Bxa8 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "Chessbrah May Invitational"]
+[Site "chess.com INT"]
+[Date "2020.05.16"]
+[EventDate "2020.05.15"]
+[Round "3.5"]
+[Result "0-1"]
+[White "Anish Giri"]
+[Black "Alireza Firouzja"]
+[ECO "D38"]
+[WhiteElo "2764"]
+[BlackElo "2728"]
+[PlyCount "68"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. cxd5 exd5 6. Qa4+
+Nc6 7. Bg5 O-O 8. e3 h6 9. Bxf6 Qxf6 10. Be2 a5 11. O-O Ne7
+12. a3 Bd6 13. Nb5 Bg4 14. Rfc1 c6 15. Nxd6 Qxd6 16. b4 b5
+17. Qb3 Bxf3 18. Bxf3 Ra7 19. a4 axb4 20. axb5 Rxa1 21. Rxa1
+cxb5 22. Rb1 Ra8 23. Be2 Nc6 24. Bxb5 Ra3 25. Qb2 Na5 26. Qxb4
+Qxb4 27. Rxb4 Ra1+ 28. Bf1 Nc4 29. g3 Nd2 30. Kg2 Rxf1 31. Rb5
+Ra1 32. Rxd5 Ra2 33. Rf5 g6 34. Rf4 Nc4 0-1

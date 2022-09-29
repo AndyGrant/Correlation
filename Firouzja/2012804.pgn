@@ -1,0 +1,19 @@
+[Event "chess.com Speed Chess"]
+[Site "chess.com INT"]
+[Date "2020.11.05"]
+[EventDate "2020.11.01"]
+[Round "1.33"]
+[Result "1-0"]
+[White "Vladimir Fedoseev"]
+[Black "Alireza Firouzja"]
+[ECO "B93"]
+[WhiteElo "2676"]
+[BlackElo "2749"]
+[PlyCount "61"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5
+7. Nb3 Nbd7 8. Bd3 Be7 9. O-O O-O 10. a4 b6 11. fxe5 dxe5
+12. Be3 Bb7 13. Qf3 Rc8 14. Rad1 Re8 15. Qh3 Qc7 16. Nd5 Qb8
+17. c4 Bxd5 18. cxd5 Nc5 19. Nxc5 Bxc5 20. Bxa6 Bxe3+ 21. Qxe3
+Rc2 22. Bb5 Rd8 23. Bc6 Rxb2 24. Rb1 Rxb1 25. Rxb1 Qd6 26. h3
+g6 27. Rxb6 Nh5 28. a5 Nf4 29. a6 Qe7 30. Rb2 Qg5 31. Kh2 1-0

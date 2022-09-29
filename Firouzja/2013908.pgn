@@ -1,0 +1,24 @@
+[Event "Skilling Open"]
+[Site "chess24.com INT"]
+[Date "2020.11.23"]
+[EventDate "2020.11.22"]
+[Round "10.2"]
+[Result "1-0"]
+[White "Jan-Krzysztof Duda"]
+[Black "Alireza Firouzja"]
+[ECO "B10"]
+[WhiteElo "2743"]
+[BlackElo "2749"]
+[PlyCount "101"]
+
+1. e4 c6 2. Nf3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nf6
+6. Nfd2 g5 7. a4 Rg8 8. a5 g4 9. Bd3 Nbd7 10. Nc4 Nc5 11. Nc3
+Be6 12. Be3 Nfd7 13. Bd4 Bg7 14. Bxg7 Rxg7 15. Ke2 O-O-O
+16. b4 Nxd3 17. cxd3 Bxc4 18. dxc4 Ne5 19. a6 b6 20. c5 b5
+21. Rad1 Rgg8 22. Ke3 Nc4+ 23. Ke2 Nb2 24. Rb1 Nc4 25. Rbd1
+Rxd1 26. Rxd1 Kc7 27. Na2 Rg5 28. Nc1 Rh5 29. Rh1 Re5 30. f3
+gxf3+ 31. gxf3 Rg5 32. Kf2 Rg8 33. Rd1 Ne5 34. Nd3 Nd7 35. h4
+e5 36. Ne1 Nb8 37. Ra1 f6 38. Nc2 Rd8 39. Ke2 Rd7 40. h5 Rg7
+41. Ne3 Rg5 42. h6 Rg8 43. Ng4 Rf8 44. Kd3 Nd7 45. Ne3 Rg8
+46. Ke2 Rg5 47. Rd1 Nb8 48. Rd6 Nd7 49. Re6 Rg6 50. Ng4 Rg5
+51. Re7 1-0

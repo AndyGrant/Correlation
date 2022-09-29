@@ -1,0 +1,27 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.14"]
+[EventDate "2022.09.14"]
+[Round "2.2"]
+[Result "0-1"]
+[White "Wesley So"]
+[Black "Alireza Firouzja"]
+[ECO "?"]
+[WhiteElo "2771"]
+[BlackElo "2778"]
+[PlyCount "124"]
+[SetUp "1"]
+[FEN "rbbnknrq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKNRQ w GAga - 0 1"]
+
+1. d4 d6 2. c3 e5 3. g4 g5 4. dxe5 Qxe5 5. Nd2 c6 6. Nf3 Qe7 7. Ne3 d5 8.
+Nf5 Bxf5 9. Bxf5 Nde6 10. h4 h6 11. Bd2 Bc7 12. hxg5 hxg5 13. Qh6 Nf4 14.
+e3 Be5 15. Kf1 N4g6 16. e4 dxe4 17. Bxg5 Bf6 18. Bxf6 Qxf6 19. Nd2 Ne6 20.
+Nxe4 Qe5 21. Rd1 Rd8 22. Rxd8+ Kxd8 23. Qe3 Ngf4 24. Bxe6 Nxe6 25. Rg3 Rh8
+26. Kg2 Kc8 27. a4 Kb8 28. Nd2 Qd5+ 29. Nf3 f6 30. g5 fxg5 31. Qe5+ Qxe5
+32. Nxe5 Kc7 33. Rg4 Rf8 34. Kg3 Rf5 35. Nf3 Kd6 36. Nd4 Rd5 37. Re4 Nc5
+38. Re2 Nxa4 39. Kg4 Kd7 40. Nf5 Rb5 41. Re4 Nc5 42. Re7+ Kd8 43. Re2 Na4
+44. Re4 Nxb2 45. Kxg5 a5 46. Kf6 a4 47. Nd4 Ra5 48. Re7 Kc8 49. Ne6 Kb8 50.
+f4 a3 51. Nd4 a2 52. Nc2 a1=Q 53. Nxa1 Rxa1 54. f5 Nc4 55. Re6 Rf1 56. Kg6
+Kc7 57. Re7+ Kd6 58. Rxb7 Ne5+ 59. Kf6 Rf3 60. Rb3 Nd7+ 61. Kg6 Rg3+ 62.
+Kf7 Rg5 0-1
+

@@ -1,0 +1,18 @@
+[Event "New In Chess Classic"]
+[Site "chess24.com INT"]
+[Date "2021.04.28"]
+[EventDate "2021.04.24"]
+[Round "1.21"]
+[Result "0-1"]
+[White "Alireza Firouzja"]
+[Black "Shakhriyar Mamedyarov"]
+[ECO "D02"]
+[WhiteElo "2759"]
+[BlackElo "2770"]
+[PlyCount "46"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. c4 e6 5. Qb3 dxc4 6. Qxb7
+Be4 7. Qxc7 Qxc7 8. Bxc7 Bb4+ 9. Nbd2 Nbd7 10. e3 Rc8 11. Bg3
+Bd5 12. a3 Ba5 13. Rc1 Ke7 14. Kd1 Nb6 15. Ne5 Na4 16. Rc2
+Nxb2+ 17. Rxb2 c3 18. Rb4 cxd2 19. f3 Rc1+ 20. Kxd2 Ra1
+21. Kc2 Bxb4 22. axb4 Rc8+ 23. Kb2 Rcc1 0-1

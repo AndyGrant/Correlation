@@ -1,0 +1,22 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.17"]
+[EventDate "2022.09.14"]
+[Round "9.1"]
+[Result "1/2-1/2"]
+[White "Ian Nepomniachtchi"]
+[Black "Dominguez Perez, Leinier"]
+[ECO "?"]
+[WhiteElo "2792"]
+[BlackElo "2745"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rnkqnrbb/pppppppp/8/8/8/8/PPPPPPPP/RNKQNRBB w FAfa - 0 1"]
+
+1. e4 f5 2. exf5 Rxf5 3. d4 g5 4. g4 Rf8 5. c3 e5 6. dxe5 Nc6 7. Bxc6 dxc6
+8. Qxd8+ Kxd8 9. Nd2 Bxe5 10. Nd3 Bd6 11. Ne4 Nf6 12. Nxd6 cxd6 13. h3 Bc4
+14. O-O-O Nd5 15. b3 Bxd3 16. Rxd3 Kd7 17. Bh2 Nf4 18. Rd2 Rae8 19. Kc2 Re6
+20. Rfd1 Rff6 21. Bg3 Nxh3 22. Rh1 Rh6 23. Rd4 c5 24. Rd5 Nf4 25. Rxh6 Rxh6
+26. Rxg5 Ne2 27. Rg7+ Kc6 28. g5 Rh3 29. g6 hxg6 30. Rxg6 Nxg3 31. Rxg3 Rh2
+32. Rf3 b5 33. a4 bxa4 34. bxa4 c4 35. Rf8 1/2-1/2
+

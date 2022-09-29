@@ -1,0 +1,22 @@
+[Event "FIDE Chess.com Online Nations Cup"]
+[Site "chess.com INT"]
+[Date "2020.05.08"]
+[EventDate "2020.05.05"]
+[Round "8.3"]
+[Result "0-1"]
+[White "Jorge Cori"]
+[Black "Wesley So"]
+[ECO "D37"]
+[WhiteElo "2652"]
+[BlackElo "2770"]
+[PlyCount "86"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bg5 h6 6. Bh4 dxc4
+7. e3 c5 8. Bxc4 cxd4 9. Nxd4 Bd7 10. O-O O-O 11. Qe2 Nc6
+12. Rfd1 Qb6 13. Bg3 Nxd4 14. Rxd4 Rfd8 15. Rad1 Bc6 16. h3
+Rxd4 17. Rxd4 Rd8 18. Rxd8+ Qxd8 19. Bb5 Qd7 20. Bxc6 Qxc6
+21. Qd3 a6 22. Bh4 b5 23. b3 g5 24. Bg3 Nd7 25. Ne2 Nc5
+26. Qd4 Ne4 27. f3 Nxg3 28. Nxg3 Qc1+ 29. Kh2 Qc7 30. f4 Bc5
+31. Qc3 gxf4 32. Ne4 fxe3+ 33. g3 Bd6 34. Qxe3 Qc2+ 35. Kh1
+Qb1+ 36. Kg2 Qxa2+ 37. Kf3 Be7 38. Qc3 Qb1 39. Qc8+ Kh7
+40. Qe8 Qd3+ 41. Kf2 Kg7 42. Qxe7 Qxe4 43. b4 Qd4+ 0-1

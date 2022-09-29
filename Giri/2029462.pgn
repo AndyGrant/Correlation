@@ -1,0 +1,21 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.14"]
+[EventDate "2021.03.13"]
+[Round "6.1"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "David Anton Guijarro"]
+[ECO "C83"]
+[WhiteElo "2776"]
+[BlackElo "2673"]
+[PlyCount "73"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5
+7. Bb3 d5 8. dxe5 Be6 9. c3 Be7 10. Nbd2 O-O 11. Bc2 f5
+12. exf6 Nxf6 13. Re1 Bg4 14. h3 Bh5 15. Nf1 Bc5 16. Ng3 Bxf3
+17. gxf3 Qd6 18. Kg2 Rae8 19. Rxe8 Rxe8 20. Bg5 Ne5 21. Bxf6
+gxf6 22. f4 Ng6 23. Bxg6 hxg6 24. f5 d4 25. Qf3 Re5 26. fxg6
+Qd5 27. h4 Kg7 28. h5 dxc3 29. bxc3 Bd6 30. Rh1 Kh6 31. Rh4
+Qxf3+ 32. Kxf3 Rc5 33. Rg4 Bf8 34. Rf4 Rxc3+ 35. Kg4 Kg7
+36. Nf5+ Kg8 37. Re4 1-0

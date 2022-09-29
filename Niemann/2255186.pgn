@@ -1,0 +1,16 @@
+[Event "Spring Chess Classic"]
+[Site "Saint Louis, MO, United States"]
+[Date "2022.03.05"]
+[EventDate "?"]
+[Round "4.10"]
+[Result "1-0"]
+[White "Hans Niemann"]
+[Black "Alex Lenderman"]
+[ECO "E00"]
+[WhiteElo "2642"]
+[BlackElo "2600"]
+[Source "Lichess"]
+[PlyCount "148"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O 7. Qc2 c6 8. O-O Nbd7 9. Bf4 b6 10. Rd1 Bb7 11. Ne5 Nh5 12. Bd2 Nhf6 13. cxd5 cxd5 14. Nc6 Bxc6 15. Qxc6 Qb8 16. Rc1 Rc8 17. Qxc8+ Qxc8 18. Rxc8+ Rxc8 19. Nc3 Nb8 20. e3 Ne8 21. Bh3 Rd8 22. Nb5 a6 23. Na7 Rd7 24. Rc1 Rxa7 25. Rc8 Kf8 26. Rxb8 b5 27. Bf1 Bd6 28. Rc8 Ke7 29. Rc1 Rc7 30. Rd1 Nf6 31. Bd3 Ne4 32. Ba5 Rc6 33. f3 Nf6 34. Bd2 Nd7 35. Kf2 g6 36. b3 Ba3 37. Ke2 Nb6 38. g4 Nd7 39. h4 Bd6 40. Ra1 b4 41. e4 dxe4 42. fxe4 e5 43. d5 Rb6 44. Rc1 Bc5 45. g5 a5 46. Kf3 Kd6 47. Bf1 Rb7 48. Bh3 Rc7 49. Bxd7 Kxd7 50. Be3 Be7 51. Rxc7+ Kxc7 52. Ke2 f6 53. Kd3 fxg5 54. Bxg5 Kd7 55. Ke2 Bf8 56. Kf3 h6 57. Be3 h5 58. Bb6 Kc8 59. Bxa5 Kb7 60. Ke2 Bd6 61. Kd3 Ka6 62. Bd8 Kb5 63. Bg5 Kc5 64. Bc1 Kb5 65. Bb2 Bc7 66. a4+ bxa3 67. Bxa3 Bd8 68. Bd6 Bxh4 69. Bxe5 Kb4 70. Bd6+ Kxb3 71. e5 Bg3 72. Bc7 h4 73. e6 h3 74. Bxg3 1-0
+

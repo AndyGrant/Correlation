@@ -1,0 +1,24 @@
+[Event "Banter Blitz 10"]
+[Site "chess24.com"]
+[Date "2020.05.01"]
+[EventDate "2020.05.01"]
+[Round "?"]
+[Result "0-1"]
+[White "Aslan Dogukan"]
+[Black "Magnus Carlsen"]
+[ECO "B33"]
+[WhiteElo "2869"]
+[BlackElo "?"]
+[PlyCount "80"]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 e5 6.Ndb5 d6
+7.Bg5 a6 8.Na3 b5 9.Nd5 Be7 10.Bxf6 Bxf6 11.c3 O-O 12.Nc2 Rb8
+13.Be2 Bg5 14.O-O a5 15.Bg4 Bb7 16.a3 Ne7 17.Nxe7+ Qxe7 18.Re1
+Rfd8 19.Bf3 g6 20.Ne3 Rdc8 21.Nd5 Qd8 22.g3 Rc5 23.h4 Bh6
+24.h5 Bxd5 {In these positions you really shouldn't let me
+exchange on d5 ever. It's quite instructive what
+happens. Usually Black just gets an attack for free. The pawns
+with f5 and so on just run. -- Carlsen} 25.exd5 b4 26.cxb4
+axb4 27.a4 b3 28.hxg6 hxg6 29.Kg2 Qa5 30.Rh1 Bg7 31.Rh4 Rc2
+32.Rb1 Qc5 33.Qf1 f5 34.g4 e4 35.Be2 f4 36.Bb5 f3+ 37.Kg1 Rxf2
+38.Qf2 Bd4 39.Rh2 Bxf2+ 40.Rxf2 Rf8 0-1

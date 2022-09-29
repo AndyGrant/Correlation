@@ -1,0 +1,25 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.17"]
+[EventDate "2022.09.14"]
+[Round "8.4"]
+[Result "0-1"]
+[White "Hikaru Nakamura"]
+[Black "Fabiano Caruana"]
+[ECO "?"]
+[WhiteElo "2768"]
+[BlackElo "2758"]
+[PlyCount "100"]
+[SetUp "1"]
+[FEN "bnrbkrqn/pppppppp/8/8/8/8/PPPPPPPP/BNRBKRQN w FCfc - 0 1"]
+
+1. f4 b6 2. f5 f6 3. b3 g6 4. g4 gxf5 5. gxf5 c5 6. e3 Bc7 7. Bh5+ Nf7 8.
+O-O-O Nc6 9. Nc3 Qxg1 10. Rxg1 O-O-O 11. Nd5 Nh6 12. Nxc7 Kxc7 13. Ng3 Rg8
+14. Rdf1 Rg5 15. Rf4 Rdg8 16. Re1 Ng4 17. Bf7 Rf8 18. Ne4 Rg7 19. Bh5 Nh6
+20. d4 Rg2 21. dxc5 Rxh2 22. cxb6+ axb6 23. Bd1 Ne5 24. Nc3 Bc6 25. a4 Nhf7
+26. Nb5+ Bxb5 27. axb5 Ra8 28. Bc3 h5 29. Rg1 Nd6 30. Kb1 Nxb5 31. Bxe5+
+fxe5 32. Rc4+ Kd6 33. Rb4 Nc3+ 34. Kb2 Nd5 35. Re4 Ra2+ 36. Kxa2 Nc3+ 37.
+Kb2 Nxe4 38. Rg8 Nf6 39. Rh8 h4 40. b4 h3 41. Kb3 e4 42. c4 Rd2 43. Bc2 h2
+44. Rh6 Re2 45. Kc3 Ke5 46. c5 bxc5 47. b5 Nd5+ 48. Kb2 Nxe3 49. b6 Rxc2+
+50. Ka3 0-1
+

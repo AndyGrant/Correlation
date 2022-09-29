@@ -1,0 +1,25 @@
+[Event "Skilling Open"]
+[Site "chess24.com INT"]
+[Date "2020.11.22"]
+[EventDate "2020.11.22"]
+[Round "4"]
+[Result "0-1"]
+[White "Jan-Krzysztof Duda"]
+[Black "Wesley So"]
+[ECO "D37"]
+[WhiteElo "2743"]
+[BlackElo "2770"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7
+7. c5 Nh5 8. Bd3 Nxf4 9. exf4 b6 10. b4 a5 11. a3 c6 12. O-O
+Ba6 13. g3 Bf6 14. Qe2 Bxd3 15. Qxd3 Ra7 16. Ra2 Qa8 17. Rfa1
+Rb8 18. Qc2 Rab7 19. Kg2 bxc5 20. bxc5 Qa6 21. Na4 Rb5 22. Re1
+Qb7 23. f5 Nf8 24. g4 Qc7 25. h3 h6 26. Nc3 R5b7 27. Re3 exf5
+28. gxf5 Bg5 29. Nxg5 hxg5 30. Qd1 Qf4 31. Qg4 g6 32. Rg3 Rb2
+33. Rxb2 Rxb2 34. Qxf4 gxf4 35. Rf3 gxf5 36. Na4 Rd2 37. Nb6
+Rxd4 38. Nc8 Ng6 39. Rb3 Kg7 40. Nd6 Nh4+ 41. Kf1 f3 42. Rb1
+Rd3 43. a4 Rc3 44. Nb7 Ng6 45. Nxa5 Ne5 46. Nb3 Nd3 47. a5 Rc2
+48. a6 Rxf2+ 49. Kg1 Rg2+ 50. Kf1 Rf2+ 51. Kg1 Rg2+ 52. Kf1
+Nf4 53. a7 Nxh3 54. Ke1 Rg1+ 55. Kd2 Rxb1 56. a8=Q f2 57. Qb8
+f1=Q 58. Qe5+ Kh7 0-1

@@ -1,0 +1,18 @@
+[Event "Banter blitz"]
+[Site "chess24.com"]
+[Date "2020.11.20"]
+[EventDate "2020.11.20"]
+[Round "?"]
+[Result "1-0"]
+[White "Magnus Carlsen"]
+[Black "Eyuphan Bayraktar"]
+[ECO "D06"]
+[WhiteElo "?"]
+[BlackElo "2095"]
+[PlyCount "49"]
+
+1.d4 d5 2.c4 Nf6 3.cxd5 Nxd5 4.Nf3 Nc6 5.e4 Nb6 6.d5 Nb8 7.a4
+a5 8.Be3 e6 9.Nc3 exd5 10.Bxb6 cxb6 11.Bb5+ Bd7 12.Qxd5 Nc6
+13.Ne5 Nxe5 14.Qxe5+ Qe7 15.Bxd7+ Kxd7 16.Rd1+ Kc8 17.Qb5 Qe6
+18.O-O Bc5 19.Rd5 Qc6 20.Qd3 Be7 21.Rd1 Kb8 22.Nb5 Rc8 23.Qg3+
+Bd6 24.Rxd6 Re8 25.Rd8# 1-0

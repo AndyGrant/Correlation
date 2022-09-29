@@ -1,0 +1,22 @@
+[Event "2022 Spring Chess Classic"]
+[Site "Saint Louis, MO, United States"]
+[Date "2022.03.09"]
+[Round "8.8"]
+[White "Niemann, Hans"]
+[Black "Swiercz, Dariusz"]
+[Result "0-1"]
+[WhiteElo "2642"]
+[WhiteTitle "GM"]
+[BlackElo "2656"]
+[BlackTitle "GM"]
+[TimeControl "40/90; G/30' +30\"i"]
+[UTCDate "2022.03.09"]
+[UTCTime "18:30:35"]
+[Variant "Standard"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[Annotator "https://lichess.org/@/broadcaster"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3 Bb7 9. d3 d5 10. exd5 Nxd5 11. Nbd2 f6 12. c3 Kh8 13. Ne4 Qd7 14. Nh4 Rad8 15. Qh5 Qe8 16. Qg4 Bc8 17. Qf3 Nf4 18. Bxf4 exf4 19. Qxf4 g5 20. Qxc7 gxh4 21. d4 Qd7 22. Qf4 Na5 23. Bd1 Rg8 24. Bf3 Qf5 25. Qxf5 Bxf5 26. Kh1 Nc4 27. b4 Bxe4 28. Rxe4 Bd6 29. Rxh4 Nd2 30. Bc6 Rc8 31. d5 f5 32. Bd7 Rcf8 33. Be6 Rg7 34. f3 Nc4 35. Rd4 Be5 36. Rd3 Rc7 37. Re1 Bg3 38. Rf1 Bd6 39. f4 h5 40. h4 Kh7 41. Kh2 Nb2 42. Rg3 Rg7 43. Rg5 Rxg5 44. hxg5 Na4 45. Rf3 Kg6 46. g3 Re8 47. Re3 Re7 48. Kh3 Nb6 49. Rd3 Nc4 50. Rd1 Rc7 51. Bg8 Kg7 52. Be6 Kg6 53. Bg8 Ne3 54. Rd3 Ng4 55. Kg2 Rc4 56. Be6 Re4 57. Rd2 Re3 58. Bc8 h4 59. gxh4 Bxf4 60. Rd4 Be5 61. Rd2 Rxc3 62. Bd7 Rg3+ 63. Kf1 Rf3+ 64. Kg2 Rg3+ 65. Kf1 Bd6 66. Be8+ Kg7 67. h5 f4 68. h6+ Kf8 69. Bg6 Nxh6 70. gxh6 Rxg6 71. Rh2 Kg8 72. h7+ Kh8 73. a3 Rg5 74. Rh6 Rxd5 75. Ke2 Rd4 0-1
+
+

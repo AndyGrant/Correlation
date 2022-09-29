@@ -1,0 +1,17 @@
+[Event "Opera Euro Rapid"]
+[Site "chess24.com INT"]
+[Date "2021.02.08"]
+[EventDate "2021.02.06"]
+[Round "12.1"]
+[Result "1-0"]
+[White "Daniil Dubov"]
+[Black "Ding Liren"]
+[ECO "D02"]
+[WhiteElo "2710"]
+[BlackElo "2791"]
+[PlyCount "35"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 Bb4+ 5. Nbd2 dxc4 6. Bg2 a5
+7. a3 Bxd2+ 8. Bxd2 O-O 9. Qc2 b5 10. a4 c6 11. h4 Nbd7 12. h5
+h6 13. g4 Nxg4 14. axb5 Bb7 15. Nh2 Nxf2 16. Kxf2 Qh4+ 17. Kf1
+Qf6+ 18. Bf3 1-0

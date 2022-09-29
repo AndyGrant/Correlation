@@ -44,7 +44,8 @@ class Engine():
 
 def process_pgns(player, filenames, engine_name):
     for filename in filenames:
-        process_pgn(player, filename, engine_name)
+        try: process_pgn(player, filename, engine_name)
+        except: print ('Error processing %s/%s' % (player, filename))
 
 def process_pgn(player, filename, engine_name):
 
@@ -147,4 +148,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-

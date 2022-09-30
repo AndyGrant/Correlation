@@ -1,0 +1,16 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "1"]
+[Result "0-1"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Anish Giri"]
+[ECO "B22"]
+[WhiteElo "2761"]
+[BlackElo "2731"]
+[Source "Chess-Results"]
+[PlyCount "100"]
+
+1. e4  c5  2. c3  Nf6  3. e5  Nd5  4. d4  cxd4  5. cxd4  d6  6. Nf3  Nc6  7. Bc4  Nb6  8. Bb3  dxe5  9. d5  Na5  10. Nc3  Nxb3  11. Qxb3  e6  12. Nxe5  exd5  13. Be3  Bd6  14. Qb5+  Kf8  15. f4  Be6  16. O-O  Kg8  17. Rad1  h5  18. Kh1  h4  19. h3  Rh5  20. Qe2  Rf5  21. Nf3  Nc4  22. Bc1  Bxf4  23. b3  Nd6  24. Bxf4  Rxf4  25. Nxd5  Bxd5  26. Rxd5  Qf6  27. Re5  Nf5  28. Kh2  Nd4  29. Qe3  g6  30. Re4  Nxf3+  31. Rxf3  Rxf3  32. Qxf3  Qxf3  33. gxf3  Rd8  34. Rxh4  Rd2+  35. Kg3  Rxa2  36. Rd4  Rb2  37. b4  Kg7  38. h4  Kf6  39. f4  Kf5  40. Rd5+  Ke6  41. Re5+  Kd6  42. b5  f6  43. Re8  Rxb5  44. Rg8  Ke6  45. Rxg6  Kf7  46. Rg4  a5  47. Kf3  a4  48. Rg1  a3  49. Ra1  Rb3+  50. Ke4  b5   0-1
+

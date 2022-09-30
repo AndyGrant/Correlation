@@ -1,0 +1,16 @@
+[Event "FIDE Grand Prix Leg 3"]
+[Site "Berlin, Germany"]
+[Date "2022.03.31"]
+[EventDate "2022.03.22"]
+[Round "12.2"]
+[Result "1-0"]
+[White "Amin Tabatabaei"]
+[Black "Wesley So"]
+[ECO "E21"]
+[WhiteElo "2623"]
+[BlackElo "2778"]
+[Source "Lichess"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. g3 b6 8. Bg2 Bb7 9. d5 d6 10. O-O Qe7 11. Nh4 Nbd7 12. Re1 Ne5 13. e4 Nxc4 14. Bf1 Ne5 15. c4 Ng6 16. Ng2 b5 17. cxb5 exd5 18. exd5 Qd7 19. Ne3 Rfe8 20. Bb2 Nxd5 21. Nxd5 Rxe1 22. Qxe1 Bxd5 23. Rd1 Nh4 24. Rd3 Qg4 25. Qc3 Be4 26. Be2 Qg5 27. Rxd6 Nf5 28. Qe5 Qe7 29. Qxe7 Nxe7 30. a4 1-0
+

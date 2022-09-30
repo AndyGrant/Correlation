@@ -1,0 +1,21 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.16"]
+[EventDate "2022.09.14"]
+[Round "6.5"]
+[Result "0-1"]
+[White "Ian Nepomniachtchi"]
+[Black "Shakhriyar Mamedyarov"]
+[ECO "?"]
+[WhiteElo "2792"]
+[BlackElo "2757"]
+[PlyCount "50"]
+[SetUp "1"]
+[FEN "qrnkrbbn/pppppppp/8/8/8/8/PPPPPPPP/QRNKRBBN w EBeb - 0 1"]
+
+1. f4 d5 2. g3 f6 3. d4 Nd6 4. Nd3 Ng6 5. Bh3 e6 6. Nhf2 b6 7. Bg2 e5 8.
+dxe5 fxe5 9. e4 dxe4 10. Nxe4 Bd5 11. Nxd6 Bf3+ 12. Kd2 Bxd6 13. Bh3 e4 14.
+b4 Re7 15. Nc5 Nxf4 16. gxf4 bxc5 17. bxc5 Bxf4+ 18. Kc3 e3 19. Red1+ Ke8
+20. Rxb8+ Qxb8 21. Rd4 c6 22. Kd3 Qb5+ 23. c4 Qb4 24. Kc2 e2 25. Rxf4 e1=N+
+0-1
+

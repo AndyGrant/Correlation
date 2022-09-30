@@ -1,0 +1,20 @@
+[Event "Clutch International"]
+[Site "lichess.org INT"]
+[Date "2020.06.11"]
+[EventDate "2020.06.06"]
+[Round "2.1"]
+[Result "0-1"]
+[White "Fabiano Caruana"]
+[Black "Wesley So"]
+[ECO "E32"]
+[WhiteElo "2773"]
+[BlackElo "2741"]
+[PlyCount "64"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4
+7. a3 Bxc3+ 8. bxc3 c5 9. f3 Qh4+ 10. g3 Nxg3 11. hxg3 Qxh1
+12. Qf2 Qh5 13. Bd3 f6 14. exf6 Rxf6 15. g4 Qf7 16. Qh4 g6
+17. Bg5 Nd7 18. Kf2 dxc4 19. Bxc4 cxd4 20. cxd4 b5 21. Bxb5
+Bb7 22. Qg3 Rf8 23. Bxf6 Nxf6 24. Kg2 h5 25. gxh5 Nxh5 26. Qg4
+Nf4+ 27. Kf2 e5 28. Ne2 Bxf3 29. Kxf3 Qb3+ 30. Kf2 Qxb5
+31. Ke1 Kg7 32. Ng3 Qb2 0-1

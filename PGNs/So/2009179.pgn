@@ -1,0 +1,25 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "8"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Emilio Cordova"]
+[ECO "B31"]
+[WhiteElo "2741"]
+[BlackElo "2610"]
+[Source "Chess-Results"]
+[PlyCount "101"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 Nf6 6. Re1 O-O
+7. d4 cxd4 8. cxd4 d5 9. e5 Ne4 10. Be3 Qb6 11. Bxc6 bxc6
+12. Qc1 a5 13. Nc3 Nxc3 14. Qxc3 Bg4 15. Nd2 Rfb8 16. b3 a4
+17. bxa4 Bf5 18. Rec1 Rxa4 19. Qxc6 Qxc6 20. Rxc6 Rba8 21. h3
+h5 22. Rb6 f6 23. exf6 Bxf6 24. Nf3 Rxa2 25. Rxa2 Rxa2 26. Ne5
+Bxe5 27. dxe5 Kf7 28. Rb7 Ke6 29. Kh2 Kxe5 30. Rxe7+ Kd6
+31. Re8 Ra4 32. Rd8+ Ke5 33. Bh6 d4 34. f3 Ke6 35. g4 hxg4
+36. hxg4 Bc2 37. Kg3 Bd1 38. Rg8 Ra3 39. Rxg6+ Kf7 40. Rg7+
+Ke6 41. Rg6+ Kf7 42. Rd6 Rxf3+ 43. Kh4 Rf1 44. Rxd4 Rh1+
+45. Kg5 Rg1 46. Rf4+ Ke8 47. Re4+ Kf7 48. Rf4+ Ke8 49. Kf5
+Bxg4+ 50. Rxg4 Rxg4 51. Kxg4 1/2-1/2

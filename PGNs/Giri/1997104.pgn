@@ -1,0 +1,30 @@
+[Event "MrDodgy Invitational"]
+[Site "chess24.com INT"]
+[Date "2020.06.12"]
+[EventDate "2020.06.12"]
+[Round "1.7"]
+[Result "1/2-1/2"]
+[White "Laurent Fressinet"]
+[Black "Anish Giri"]
+[ECO "A06"]
+[WhiteElo "2635"]
+[BlackElo "2764"]
+[PlyCount "161"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 c6 4. O-O Nd7 5. d3 Ngf6 6. c4 dxc4
+7. dxc4 e5 8. Nc3 Bc5 9. h3 Bxf3 10. Bxf3 O-O 11. e3 a5
+12. Qc2 Qe7 13. b3 Rfe8 14. Rd1 Ba3 15. Bd2 Bb4 16. Na4 Nc5
+17. Nxc5 Qxc5 18. Bc3 a4 19. Rab1 axb3 20. Rxb3 Bxc3 21. Qxc3
+Re7 22. Rdb1 Ra7 23. a3 h5 24. Qb4 Qxb4 25. axb4 e4 26. Be2
+Rd7 27. R3b2 g6 28. Kf1 Kf8 29. Ke1 Ke7 30. b5 c5 31. b6 Ra5
+32. Bd1 Rd3 33. Rb5 Rda3 34. Bc2 Rxb5 35. Rxb5 Kd6 36. Kd2 Kc6
+37. Rb1 Ra6 38. g4 hxg4 39. hxg4 g5 40. Rh1 Rxb6 41. Rh8 Kd7
+42. Bd1 Rd6+ 43. Kc2 Ra6 44. Kb2 Ke7 45. Rb8 Rb6+ 46. Kc2 Rb4
+47. Be2 Nd7 48. Rg8 f6 49. Rg7+ Ke6 50. Rg8 Ne5 51. Re8+ Kd7
+52. Rf8 Ke7 53. Rc8 b6 54. Rc7+ Kd6 55. Rc8 Nxc4 56. Rf8 Ke7
+57. Rb8 Ne5 58. Rb7+ Kd6 59. Rb8 c4 60. Rd8+ Ke7 61. Rb8 b5
+62. Rb7+ Ke6 63. Rb6+ Kf7 64. Rb7+ Kg6 65. Rb6 Rb3 66. Rb8 b4
+67. Kd2 Rb2+ 68. Kd1 b3 69. Rg8+ Kf7 70. Rc8 Nd3 71. Rxc4
+Nxf2+ 72. Ke1 Nd3+ 73. Kd1 Rb1+ 74. Kd2 Rb2+ 75. Kd1 Ra2
+76. Rc7+ Ke6 77. Rb7 Nf2+ 78. Ke1 Nd3+ 79. Kd1 Ra1+ 80. Kd2
+Ra2+ 81. Kd1 1/2-1/2

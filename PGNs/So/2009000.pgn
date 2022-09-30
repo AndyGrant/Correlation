@@ -1,0 +1,19 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "2"]
+[Result "1/2-1/2"]
+[White "Neuris Delgado Ramirez"]
+[Black "Wesley So"]
+[ECO "C42"]
+[WhiteElo "2667"]
+[BlackElo "2741"]
+[Source "Chess-Results"]
+[PlyCount "50"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nd3 Nxe4 5. Qe2 Qe7 6. Nf4
+Nc6 7. Nd5 Nd4 8. Nxe7 Nxe2 9. Bxe2 Bxe7 10. d3 Nf6 11. Nc3 c6
+12. O-O d5 13. Re1 Be6 14. Bf3 O-O 15. Ne2 Rfe8 16. Bd2 a5
+17. Nd4 Bd7 18. a4 Kf8 19. h3 h6 20. Nb3 b6 21. Bf4 Rac8
+22. Nd4 Bc5 23. Nb3 Be7 24. Nd4 Bc5 25. Nb3 Be7 1/2-1/2

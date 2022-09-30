@@ -1,0 +1,25 @@
+[Event "chess.com Speed Chess"]
+[Site "chess.com INT"]
+[Date "2020.11.12"]
+[EventDate "2020.11.01"]
+[Round "1.38"]
+[Result "0-1"]
+[White "Haik M Martirosyan"]
+[Black "Hikaru Nakamura"]
+[ECO "A40"]
+[WhiteElo "2622"]
+[BlackElo "2736"]
+[PlyCount "118"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 d6 4. Bg2 Bd7 5. O-O Qc8 6. e4 Nc6
+7. d5 Ne5 8. Nxe5 Bxe5 9. Nd2 Bh3 10. Nf3 h5 11. Bxh3 Qxh3
+12. Ng5 Qd7 13. h4 Nh6 14. Kg2 c6 15. c4 Rc8 16. Qb3 O-O
+17. Bd2 Bg7 18. Rac1 Ng4 19. Bc3 Bf6 20. Nf3 cxd5 21. exd5 Qf5
+22. Rfe1 Rc7 23. Bxf6 Qxf6 24. Qc3 Rfc8 25. Re4 b5 26. b3 Qf5
+27. Qe1 bxc4 28. Rcxc4 Rxc4 29. bxc4 Nf6 30. Rxe7 Rxc4
+31. Rxa7 Qxd5 32. Qe7 Kg7 33. Ra3 Rc2 34. Kg1 Rc1+ 35. Kg2 Rc2
+36. Kg1 Ng4 37. Qe1 Qc5 38. Ra5 Qxf2+ 39. Qxf2 Rxf2 40. Ng5
+Rf6 41. Ra7 Ne3 42. a4 d5 43. a5 d4 44. Rd7 Nf5 45. Kg2 Kg8
+46. a6 Rxa6 47. Nxf7 Ra3 48. Ne5 Rxg3+ 49. Kf2 g5 50. hxg5 h4
+51. Nf3 h3 52. Rd5 Rg2+ 53. Ke1 Ne3 54. Rd8+ Kf7 55. Rd6 h2
+56. Rh6 Rg1+ 57. Kf2 h1=Q 58. Ne5+ Kg7 59. Rxh1 Rxh1 0-1

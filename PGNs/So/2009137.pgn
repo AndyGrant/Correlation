@@ -1,0 +1,24 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.23"]
+[EventDate "2020.08.21"]
+[Round "7"]
+[Result "1-0"]
+[White "Jan-Krzysztof Duda"]
+[Black "Wesley So"]
+[ECO "A13"]
+[WhiteElo "2774"]
+[BlackElo "2741"]
+[Source "Chess-Results"]
+[PlyCount "93"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. cxd5 exd5 5. Bg2 Bd6 6. b3 O-O
+7. Bb2 Re8 8. O-O c6 9. d3 Bg4 10. Nbd2 Nbd7 11. Re1 Bxf3
+12. Nxf3 Bb4 13. Rf1 Bd6 14. Qc2 Qe7 15. Nd4 Ba3 16. Nf5 Qf8
+17. Bxa3 Qxa3 18. e4 Qc5 19. Qb2 dxe4 20. dxe4 g6 21. Nh6+ Kf8
+22. Rad1 Qh5 23. Rxd7 Nxd7 24. Qh8+ Ke7 25. Qg7 Rf8 26. f4
+Rae8 27. e5 Qe2 28. Rf2 Qe1+ 29. Bf1 Kd8 30. Nxf7+ Kc7 31. Re2
+Qd1 32. Nd6 Rxe5 33. Rxe5 Qxd6 34. Qxh7 Qd4+ 35. Kg2 Qd2+
+36. Be2 g5 37. fxg5 Kb6 38. Re7 Nc5 39. Qg7 Rf5 40. g6 Qd5+
+41. Kh3 Rf2 42. Qe5 Qg2+ 43. Kg4 Nd7 44. Rxd7 Rxe2 45. Qc7+
+Kc5 46. Qa5+ b5 47. Qa3+ 1-0

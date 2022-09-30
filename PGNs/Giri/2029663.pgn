@@ -1,0 +1,17 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.15"]
+[EventDate "2021.03.13"]
+[Round "14.1"]
+[Result "1/2-1/2"]
+[White "Anish Giri"]
+[Black "Sergey Karjakin"]
+[ECO "C65"]
+[WhiteElo "2776"]
+[BlackElo "2757"]
+[PlyCount "36"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 O-O 6. O-O
+Nd4 7. Nxd4 Bxd4 8. c3 Bb6 9. Nc4 d5 10. exd5 Qxd5 11. Nxb6
+axb6 12. Bc4 Qd6 13. Bg5 Re8 14. Qf3 Bg4 15. Qg3 Bf5 16. Qf3
+Bg4 17. Qg3 Bf5 18. Qf3 Bg4 1/2-1/2

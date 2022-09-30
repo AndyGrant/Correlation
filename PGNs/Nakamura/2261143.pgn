@@ -1,0 +1,16 @@
+[Event "FIDE Grand Prix Leg 3"]
+[Site "Berlin, Germany"]
+[Date "2022.04.02"]
+[EventDate "?"]
+[Round "15.1"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Hikaru Nakamura"]
+[ECO "E32"]
+[WhiteElo "2778"]
+[BlackElo "2750"]
+[Source "Lichess"]
+[PlyCount "60"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3 cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh5 12. O-O g5 13. cxd5 Bxc3 14. bxc3 exd5 15. Be3 Nxe5 16. f3 Nc5 17. Bf5 Ne6 18. Rae1 Nxd4 19. Bxd4 Nc6 20. f4 Nxd4 21. cxd4 gxf4 22. Rxf4 Bxf5 23. Rxf5 Qh6 24. Qc7 Rac8 25. Qe5 f6 26. Qxd5+ Kh8 27. Qxb7 Rc2 28. Rf2 Rxf2 29. Kxf2 Qxh2+ 30. Qg2 Qh5 1/2-1/2
+

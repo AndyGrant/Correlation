@@ -1,0 +1,27 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2020.05.01"]
+[EventDate "2020.04.18"]
+[Round "8.6"]
+[Result "1-0"]
+[White "Hikaru Nakamura"]
+[Black "Fabiano Caruana"]
+[ECO "A46"]
+[WhiteElo "2736"]
+[BlackElo "2835"]
+[PlyCount "137"]
+
+1. Nf3 d6 2. d4 Nf6 3. e3 g6 4. b3 Bg7 5. Bb2 O-O 6. Be2 Nbd7
+7. O-O b6 8. c4 Bb7 9. Qc2 e6 10. Nc3 Qe7 11. e4 e5 12. dxe5
+dxe5 13. Nd5 Nxd5 14. cxd5 Rac8 15. Bb5 Nb8 16. Bc6 Nxc6
+17. dxc6 Ba6 18. Rfd1 Rcd8 19. a4 Rfe8 20. Rxd8 Rxd8 21. Rd1
+Rd6 22. Rd2 f6 23. h4 Bh6 24. Rd5 Rxd5 25. exd5 Qd6 26. Qe4
+Bc8 27. h5 Bf5 28. Qc4 Bf8 29. Nh4 Qc5 30. Nxf5 gxf5 31. Kf1
+Kg7 32. Bc1 Qxc4+ 33. bxc4 f4 34. g3 Kh6 35. gxf4 Kxh5 36. Kg2
+Kg4 37. fxe5 fxe5 38. f3+ Kf5 39. Bd2 a5 40. Be3 Bd6 41. Kh3
+e4 42. f4 Kg6 43. Kg4 h5+ 44. Kg3 Kf5 45. Kh3 Kf6 46. Kg3 Kg6
+47. Kh4 Be7+ 48. Kh3 Bd6 49. Kg3 Kf5 50. Kh3 h4 51. Kxh4 Bxf4
+52. Bxf4 Kxf4 53. d6 e3 54. dxc7 e2 55. c8=Q e1=Q+ 56. Kh5
+Qe5+ 57. Kg6 Qe4+ 58. Kg7 Qd4+ 59. Kg6 Qd3+ 60. Kg7 Qc3+
+61. Kg6 Qxc4 62. Qf5+ Ke3 63. Qe5+ Kd2 64. c7 Qc6+ 65. Kf7
+Qc4+ 66. Ke7 Qh4+ 67. Kd7 Qg4+ 68. Qe6 Qg7+ 69. Kc6 1-0

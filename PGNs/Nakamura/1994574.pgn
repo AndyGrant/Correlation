@@ -1,0 +1,32 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2020.04.30"]
+[EventDate "2020.04.18"]
+[Round "7.3"]
+[Result "0-1"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Hikaru Nakamura"]
+[ECO "A08"]
+[WhiteElo "2778"]
+[BlackElo "2736"]
+[PlyCount "186"]
+
+1. Nf3 d5 2. g3 c5 3. Bg2 Nf6 4. O-O e6 5. b3 Be7 6. Bb2 O-O
+7. d3 Nc6 8. Nbd2 b6 9. e3 Bb7 10. c4 Qd7 11. Qe2 d4 12. exd4
+cxd4 13. a3 a5 14. Rae1 Rad8 15. Nh4 Ne8 16. Nhf3 Qc8 17. Qd1
+f6 18. Bh3 f5 19. Bg2 Bf6 20. c5 bxc5 21. Qc2 Be7 22. Nc4 Nc7
+23. Bc1 Nb5 24. Bf4 Rde8 25. Nb6 Nxa3 26. Qe2 Qd8 27. Qxe6+
+Kh8 28. Nd7 Bc8 29. Qxc6 Bxd7 30. Qd5 Nc2 31. Rxe7 Qxe7
+32. Bd6 Qe6 33. Ng5 Qxd5 34. Bxd5 h6 35. Nf7+ Kh7 36. Bxc5 Rg8
+37. Rc1 Ne1 38. Bxd4 Be6 39. Bxe6 Rxe6 40. Bc3 Nxd3 41. Rd1
+Nc5 42. Bxa5 f4 43. b4 Nb3 44. Nd8 Re2 45. gxf4 Nxa5 46. bxa5
+Rf8 47. a6 Ra2 48. Ne6 Rf6 49. Rd6 h5 50. Kg2 Ra3 51. h4 Kg6
+52. Rd5 Kh6 53. f5 Rxa6 54. Ng5 Ra4 55. f3 Rf4 56. Kg3 R4xf5
+57. Rd8 Kg6 58. Ra8 Rb5 59. Rc8 Ra6 60. Rc7 Rb1 61. Rd7 Rg1+
+62. Kf2 Rb1 63. Kg3 Re1 64. Rb7 Ra2 65. Rb6+ Kf5 66. Rb5+ Re5
+67. Rb7 Ree2 68. Rb5+ Kf6 69. Rb6+ Ke5 70. Rb5+ Kd4 71. Ne4
+Rg2+ 72. Kf4 g6 73. Rb6 Ra5 74. Rf6 Kd3 75. Rd6+ Kc2 76. Ng5
+Ra4+ 77. Ne4 Rb4 78. Rd5 Rb8 79. Ra5 Kd3 80. Ra3+ Kc4 81. Ra4+
+Kb5 82. Nc3+ Kc6 83. Ra6+ Rb6 84. Ra8 Rb4+ 85. Ne4 Rb1 86. Ng3
+g5+ 87. hxg5 h4 88. Ne4 h3 89. Rh8 h2 90. Rh6+ Kd7 91. Rh7+
+Kd8 92. Rh8+ Ke7 93. Rh7+ Kf8 0-1

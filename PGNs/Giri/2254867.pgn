@@ -1,0 +1,26 @@
+[Event "FIDE Grand Prix Leg 2"]
+[Site "Belgrade SRB"]
+[Date "2022.03.01"]
+[Round "1.4"]
+[White "Giri, Anish"]
+[Black "Tabatabaei, M. Amin"]
+[Result "1-0"]
+[WhiteElo "2772"]
+[BlackElo "2623"]
+[ECO "C50"]
+[Source "Lichess"]
+
+1. e4  e5 2. Nf3  Nc6 3. Bc4  Nf6 4. d3  Bc5 5. O-O  O-O 6. h3  
+d5 7. exd5  Nxd5 8. Nbd2  Be6 9. Ne4  Bb6 10. b4  Ndxb4 11. 
+Bxe6  fxe6 12. Rb1  h6 13. Nxe5  Nxe5 14. Rxb4  a5 15. Rb1  
+Qh4 16. Qe2  Rad8 17. Kh2  Qe7 18. f4  Nd7 19. Rf3  Nf6 20. 
+Bd2  Qa3 21. Nc3  Rde8 22. Qe5  Nd7 23. Qb5  Qe7 24. Qc4  
+Kh8 25. Ne4  c6 26. d4  Rb8 27. Rfb3  Qd8 28. Qxe6  Bxd4 29. 
+Rxb7  Rxb7 30. Rxb7  Nc5 31. Nxc5  Bxc5 32. Rd7  Qf6 33. Qxf6  
+Rxf6 34. Bc3  Rxf4 35. Bxg7+  Kg8 36. Bxh6  Ra4  37. g4  Rxa2 
+38. g5  Rxc2+ 39. Kg3  Be3  40. Rd8+   Kh7 41. Kg4  Rd2 42. Re8  
+Bc5 43. Kh5  Rd5 44. Ra8  Bd4 45. h4  Bc3 46. Bf8  Bd4 47. Rc8  
+a4 48. Ra8  c5 49. Rxa4  Rd8 50. Ra7+  Kg8 51. Be7  Rc8 52. Kg6  
+c4 53. Rd7  Bh8  54. Bf6   c3  55. Rh7  Bxf6 56. gxf6  Rc6 57. Rd7  
+Rc8 58. Rg7+ 1-0
+

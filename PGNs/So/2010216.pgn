@@ -1,0 +1,30 @@
+[Event "Champions Showdown Chess 9LX"]
+[Site "lichess.org INT"]
+[Date "2020.09.12"]
+[EventDate "2020.09.11"]
+[Round "4.3"]
+[Result "1/2-1/2"]
+[White "Wesley So"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "000"]
+[WhiteElo "2770"]
+[BlackElo "2778"]
+[Source "TWIC"]
+[PlyCount "136"]
+[SetUp "1"]
+[FEN "bbrqnknr/pppppppp/8/8/8/8/PPPPPPPP/BBRQNKNR w HChc - 0 1"]
+
+1. d4 d5 2. b3 b6 3. c4 Ngf6 4. Nd3 c5 5. dxc5 dxc4 6. Rxc4
+Bd5 7. Rc2 bxc5 8. Nf3 c4 9. bxc4 Rxc4 10. Rxc4 Bxc4 11. O-O
+O-O 12. Nfe5 Bxe5 13. Bxe5 Qd5 14. Bb2 Bxa2 15. Bxa2 Qxa2
+16. Qa1 Qe6 17. Re1 a6 18. Qa5 Nd7 19. Nf4 Qe4 20. g3 Nef6
+21. Qxa6 Ra8 22. Qd3 Qxd3 23. Nxd3 e6 24. Ra1 Rxa1+ 25. Bxa1
+Nd5 26. e4 Ne7 27. f3 f6 28. Kf2 e5 29. Ke3 Nc6 30. Bc3 Kf8
+31. f4 Ke7 32. Nb4 Nxb4 33. Bxb4+ Ke6 34. f5+ Kf7 35. g4 Nb8
+36. Kd3 Nc6 37. Bc5 Ke8 38. Kc4 Nd8 39. Kd5 Nf7 40. h4 Nh6
+41. g5 fxg5 42. hxg5 Nf7 43. Be3 Kd7 44. Bc1 Ke7 45. Bd2 Kd7
+46. f6 gxf6 47. gxf6 h5 48. Be1 Ke8 49. Ke6 Nd8+ 50. Kxe5 Kf7
+51. Kf5 Ne6 52. Bf2 Nf8 53. e5 Ne6 54. Bg3 Nf8 55. Be1 Ne6
+56. Bc3 Nc5 57. Bd4 Ne6 58. Bb2 Nf8 59. Kg5 Ne6+ 60. Kxh5 Nf8
+61. Kg5 Ne6+ 62. Kf5 Nf8 63. Ke4 Ne6 64. Kd5 Nf4+ 65. Kd6 Ne6
+66. Bc1 Nf8 67. Be3 Ne6 68. Bh6 Nd4 1/2-1/2

@@ -1,0 +1,16 @@
+[Event "Chess.com INT"]
+[Site "Chess.com"]
+[Date "2020.??.??"]
+[EventDate "2020.??.??"]
+[Round "?"]
+[Result "1/2-1/2"]
+[White "Shakhriyar Mamedyarov"]
+[Black "Wesley So"]
+[ECO "D40"]
+[WhiteElo "2764"]
+[BlackElo "2770"]
+[Source "https://www.chessable.com/lifetime-repertoires-nimzosemi-tarrasc"]
+[PlyCount "36"]
+
+1.d4 Nf6 2.c4 e6 3.Nf3 d5 4.Nc3 c5 5.Bg5 cxd4 6.Nxd4 e5 7.Nb3 d4 8.Bxf6 gxf6 9.Nd5 Nc6 10.e4 dxe3 11.fxe3 Nb4 12.Qf3 Nc2+ 13.Kf2 Nxa1 14.Nxf6+ Ke7 15.Nd5+ Ke8 16.Nf6+ Ke7 17.Nd5+ Ke8 18.Nf6+ 1/2-1/2
+

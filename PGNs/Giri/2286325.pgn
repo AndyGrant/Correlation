@@ -1,0 +1,16 @@
+[Event "Norway Chess"]
+[Site "Stavanger NOR"]
+[Date "2022.06.01"]
+[EventDate "2022.05.31"]
+[Round "3"]
+[Result "1/2-1/2"]
+[White "Hao Wang"]
+[Black "Anish Giri"]
+[ECO "B90"]
+[WhiteElo "2744"]
+[BlackElo "2761"]
+[Source "Lichess"]
+[PlyCount "64"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nb3 Be7 8. Be3 Be6 9. f4 exf4 10. Bxf4 Nc6 11. Qe2 Ne5 12. O-O-O Nfd7 13. Kb1 Rc8 14. Qe3 O-O 15. g4 Re8 16. Nd4 Qa5 17. a3 b5 18. Nf5 b4 19. axb4 Qxb4 20. Qd4 Qa5 21. Nxe7+ Rxe7 22. Qxd6 Rxc3 23. Bxe5 Ba2+ 24. Kc1 Rxc2+ 25. Kxc2 Rxe5 26. Bc4 Rc5 27. Qxd7 Rxc4+ 28. Kd3 h6 29. Rc1 Qb4 30. Rxc4 Bxc4+ 31. Kc2 Bb3+ 32. Kd3 Bc4+ 1/2-1/2
+

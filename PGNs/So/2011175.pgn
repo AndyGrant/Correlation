@@ -1,0 +1,20 @@
+[Event "US Championship"]
+[Site "lichess.org INT"]
+[Date "2020.10.27"]
+[EventDate "2020.10.26"]
+[Round "5.4"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Dariusz Swiercz"]
+[ECO "D85"]
+[WhiteElo "2770"]
+[BlackElo "2649"]
+[PlyCount "69"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Be3 c5 8. Rc1 O-O 9. Nf3 Qa5 10. Qd2 Bg4 11. d5 b5
+12. Bd3 Nd7 13. c4 b4 14. O-O Qc7 15. Ne1 Nb6 16. f4 Bd7
+17. f5 Na4 18. Nf3 Nc3 19. Bh6 a5 20. e5 Bxe5 21. Nxe5 Qxe5
+22. Rce1 Qd4+ 23. Be3 Qg7 24. Bh6 Qd4+ 25. Be3 Qg7 26. Bxc5
+Rfc8 27. Bxe7 Qd4+ 28. Kh1 Bxf5 29. Rxf5 gxf5 30. Qg5+ Qg7
+31. Qxf5 Re8 32. d6 Rad8 33. c5 a4 34. Re3 Ne2 35. Bxe2 1-0

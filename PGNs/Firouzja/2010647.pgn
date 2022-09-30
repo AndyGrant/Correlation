@@ -1,0 +1,25 @@
+[Event "St. Louis Rapid & Blitz"]
+[Site "lichess.org INT"]
+[Date "2020.09.19"]
+[EventDate "2020.09.18"]
+[Round "12.3"]
+[Result "0-1"]
+[White "Alireza Firouzja"]
+[Black "Jeffery Xiong"]
+[ECO "B01"]
+[WhiteElo "2728"]
+[BlackElo "2709"]
+[PlyCount "116"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd8 4. d4 Nf6 5. Nf3 g6 6. Bf4
+Bg7 7. Qd2 a6 8. Bc4 O-O 9. Bb3 Nc6 10. O-O-O Bg4 11. d5 Bxf3
+12. gxf3 Na5 13. Bh6 c6 14. Bxg7 Kxg7 15. Rhe1 Qc7 16. Qe3
+Rfe8 17. dxc6 Nxb3+ 18. axb3 Qxc6 19. Rd4 b5 20. Red1 Rac8
+21. R1d2 a5 22. Ne4 Rc7 23. Kb1 Rcc8 24. h4 Ra8 25. R2d3 Rac8
+26. Rd2 Ra8 27. Ng3 a4 28. b4 h5 29. Ne4 Nxe4 30. fxe4 Rec8
+31. Rd7 Qf6 32. Qd4 Rc4 33. Qd5 Ra6 34. Qxb5 Rxe4 35. Ka2 Rb6
+36. Qc5 Rexb4 37. c3 Qe6+ 38. Ka1 Rxh4 39. Rd1 a3 40. b4 Rc4
+41. Qg5 Rxc3 42. Rxe7 Qf6 43. Qxf6+ Kxf6 44. Re4 Rf3 45. Rd2
+g5 46. Ka2 h4 47. Rd8 h3 48. Rh8 Ra6 49. Re2 Kg7 50. Rh5 Kg6
+51. Rh8 Rb6 52. Rg8+ Kf5 53. Rc2 f6 54. Rc5+ Kg4 55. Rh8 Rxb4
+56. Ka1 Rbf4 57. Ra5 Rxf2 58. Rxa3 Rf1+ 0-1

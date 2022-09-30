@@ -1,0 +1,25 @@
+[Event "Champions Showdown Chess 9LX"]
+[Site "lichess.org INT"]
+[Date "2020.09.12"]
+[EventDate "2020.09.11"]
+[Round "5.3"]
+[Result "0-1"]
+[White "Maxime Vachier-Lagrave"]
+[Black "Alireza Firouzja"]
+[ECO "000"]
+[WhiteElo "2778"]
+[BlackElo "2728"]
+[Source "TWIC"]
+[PlyCount "88"]
+[SetUp "1"]
+[FEN "nnrkrqbb/pppppppp/8/8/8/8/PPPPPPPP/NNRKRQBB w ECec - 0 1"]
+
+1. Nb3 g6 2. O-O-O f5 3. g3 Nc6 4. d4 Nb6 5. f4 Bd5 6. Bxd5
+Nxd5 7. c4 Nb6 8. d5 Nb4 9. a3 Na6 10. e4 c5 11. e5 d6 12. Nc3
+Kc7 13. Nd2 Kb8 14. Nf3 h6 15. Qd3 Nc7 16. Re2 Nd7 17. b4 Na6
+18. b5 Nc7 19. e6 Nf6 20. Kc2 Red8 21. b6 axb6 22. Rb1 Ne4
+23. Nxe4 fxe4 24. Rxe4 b5 25. cxb5 Qf5 26. b6 Nxd5 27. Nh4 c4
+28. Qf3 Qf8 29. Nxg6 Qe8 30. Nxh8 Qa4+ 31. Kc1 Rxh8 32. Rd4
+Nf6 33. Rb4 Qa5 34. Qc3 Rc6 35. Kb2 Rhc8 36. Qc2 c3+ 37. Ka2
+Rxb6 38. Rxb6 Qxb6 39. Bf2 Qc6 40. f5 Qb5 41. Be3 Rc6 42. h3
+Qe5 43. Bf2 Rb6 44. Qxc3 Qxf5 0-1

@@ -1,0 +1,26 @@
+[Event "Chessable Masters"]
+[Site "chess24.com INT"]
+[Date "2021.07.31"]
+[EventDate "2021.07.31"]
+[Round "2"]
+[Result "0-1"]
+[White "Abhimanyu Mishra"]
+[Black "Wesley So"]
+[ECO "D11"]
+[WhiteElo "2504"]
+[BlackElo "2772"]
+[PlyCount "142"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Qb3 dxc4 5. Qxc4 Bf5 6. g3 e6 7. Bg2 Nbd7
+8. O-O Be7 9. Qb3 Qb6 10. Nbd2 O-O 11. Nc4 Qa6 12. Bf4 Be4 13. Bd6 Rfe8 14.
+Bxe7 Rxe7 15. Rfc1 Rd8 16. a4 Nb6 17. e3 Nxc4 18. Qxc4 Qxc4 19. Rxc4 Bd5
+20. Rcc1 Bxf3 21. Bxf3 a5 22. Rab1 Nd5 23. Rc5 Ra8 24. Bxd5 exd5 25. b4
+axb4 26. Rxb4 Kf8 27. a5 Ke8 28. Rb6 Rc7 29. Kf1 Kd8 30. Ke2 f5 31. h4 Kc8
+32. Kd3 Kb8 33. Kc3 Rc8 34. Kb4 Kc7 35. Rc2 g6 36. Ra2 Rcb8 37. Kc5 Ra6 38.
+Ra4 Rba8 39. Rxa6 Rxa6 40. Kb4 Ra8 41. Ra3 Kd6 42. Rb3 h6 43. Kc3 Kc7 44.
+Ra3 g5 45. hxg5 hxg5 46. Ra1 Rh8 47. Kd3 Kb8 48. Rb1 Ka7 49. Ke2 Rh7 50. g4
+fxg4 51. Rg1 Rh4 52. Rb1 Rh5 53. Rg1 Ka6 54. Rxg4 Kxa5 55. f4 gxf4 56. exf4
+Rf5 57. Ke3 Rf6 58. Rg7 b5 59. Rg1 b4 60. Ra1+ Kb5 61. Rc1 b3 62. Kd3 Kb4
+63. Rf1 Rf5 64. Rf2 Ka3 65. Kc3 Rh5 66. f5 b2 67. Rf1 Rxf5 68. Rb1 Rf3+ 69.
+Kc2 Rf2+ 70. Kc3 Ka2 71. Re1 b1=R 0-1
+

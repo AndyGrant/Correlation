@@ -1,0 +1,19 @@
+[Event "FTX Crypto Cup"]
+[Site "chess24.com INT"]
+[Date "2021.05.26"]
+[EventDate "2021.05.23"]
+[Round "1.14"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "A70"]
+[WhiteElo "2770"]
+[BlackElo "2760"]
+[PlyCount "59"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6
+7. e4 Bg7 8. h3 O-O 9. Bd3 a6 10. a4 Nbd7 11. O-O Qc7 12. Re1
+c4 13. Bf1 Re8 14. Bf4 Rb8 15. Bh2 b5 16. axb5 axb5 17. Nd4
+Qc5 18. Nc6 Bb7 19. Nxb8 Rxb8 20. Ra5 Bc8 21. Qa1 Ne8 22. Ra8
+Bd4 23. Bg3 Nef6 24. Rxb8 Nxb8 25. Ne2 Be5 26. Bxe5 dxe5
+27. b4 Qxb4 28. Rb1 Qc5 29. Qxe5 Nbd7 30. Qd4 1-0

@@ -1,0 +1,24 @@
+[Event "FIDE Chess.com Online Nations Cup"]
+[Site "chess.com INT"]
+[Date "2020.05.07"]
+[EventDate "2020.05.05"]
+[Round "6.2"]
+[Result "0-1"]
+[White "Teimour Radjabov"]
+[Black "Ding Liren"]
+[ECO "A04"]
+[WhiteElo "2765"]
+[BlackElo "2791"]
+[PlyCount "106"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 Bf5 4. e3 h6 5. d3 e6 6. Nbd2 Be7
+7. h3 Bh7 8. g4 c5 9. Ne5 Nbd7 10. Nxd7 Qxd7 11. Bg2 d4
+12. O-O O-O 13. Nc4 Rad8 14. Qf3 Nd5 15. exd4 cxd4 16. Bxd4
+Nb4 17. Bc3 Nxc2 18. Rad1 Nd4 19. Qe3 Bf6 20. Ne5 Qd6 21. Bxd4
+Qxd4 22. Qxd4 Rxd4 23. Rfe1 Bxe5 24. Rxe5 b6 25. Be4 Rc8
+26. Bxh7+ Kxh7 27. Re4 Rd5 28. Ra4 Rc7 29. Kg2 Kg6 30. Rd2
+Rcd7 31. f4 Kf6 32. d4 g5 33. fxg5+ hxg5 34. Kf3 Kg6 35. Rc4
+f6 36. a4 R5d6 37. Ke3 f5 38. Rcc2 Rh7 39. Rh2 Rh4 40. Rcg2
+Kf6 41. Rf2 Kg6 42. Rfg2 a5 43. Rh1 Rh8 44. Rhh2 Rc6 45. Kd3
+Rhc8 46. Rc2 Rxc2 47. Rxc2 Rxc2 48. Kxc2 Kf6 49. Kd3 Ke7
+50. Ke3 Kd6 51. Kf2 fxg4 52. hxg4 Kd5 53. Ke3 e5 0-1

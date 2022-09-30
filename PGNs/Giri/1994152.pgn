@@ -1,0 +1,25 @@
+[Event "chess24.com INT"]
+[Site "chess24.com INT"]
+[Date "2020.04.13"]
+[EventDate "2020.04.13"]
+[Round "1"]
+[Result "0-1"]
+[White "Anish Giri"]
+[Black "Jorden van Foreest"]
+[ECO "E10"]
+[WhiteElo "2764"]
+[BlackElo "2682"]
+[PlyCount "116"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 O-O
+7. O-O c6 8. Qc2 b6 9. Bf4 Nbd7 10. Nbd2 Nh5 11. e3 Bb7
+12. cxd5 Nxf4 13. exf4 cxd5 14. Rfc1 Rc8 15. Qd1 Rxc1 16. Rxc1
+Qb8 17. Bf1 Rc8 18. Bb5 Rxc1 19. Qxc1 Qc8 20. Qxc8+ Bxc8
+21. Kf1 Kf8 22. Ke2 Bd6 23. Ne5 Nb8 24. a3 a6 25. Bd3 g6
+26. h4 f6 27. Nef3 Nc6 28. b4 Kg7 29. Nf1 Ne7 30. Ne3 a5
+31. Nc2 axb4 32. Nxb4 Bxb4 33. axb4 Nc6 34. Bb5 Nxb4 35. Kd2
+Ba6 36. Ba4 Nd3 37. Ke3 Nb2 38. Bb3 Bc4 39. Bc2 b5 40. Kd2 Na4
+41. g4 Nb6 42. Kc3 Be2 43. Nh2 Nc4 44. g5 h6 45. Kb4 Nd6
+46. Kc3 Nf7 47. Kd2 Bh5 48. Bd3 b4 49. gxf6+ Kxf6 50. Nf1 Nd6
+51. Ne3 Bf3 52. Bc2 Be4 53. Bd1 h5 54. f3 Bb1 55. Bb3 Nb5
+56. Bxd5 exd5 57. Nxd5+ Kf7 58. Nxb4 Nxd4 0-1

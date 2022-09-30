@@ -1,0 +1,25 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.14"]
+[EventDate "2021.03.13"]
+[Round "9.3"]
+[Result "0-1"]
+[White "Jorden van Foreest"]
+[Black "Wesley So"]
+[ECO "C45"]
+[WhiteElo "2701"]
+[BlackElo "2770"]
+[PlyCount "110"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Bb5 Bc5 6. Nb3
+Bb6 7. Nc3 d6 8. O-O Bg4 9. Qd3 O-O 10. Bxc6 bxc6 11. a4 a5
+12. Bg5 h6 13. Bh4 g5 14. Bg3 Nh5 15. Nd4 Bd7 16. Rad1 Qf6
+17. e5 dxe5 18. Ne4 Qg7 19. Nf3 Be6 20. Bxe5 f6 21. Ng3 fxe5
+22. Nxh5 Qf7 23. Ng3 Bc4 24. Qe4 Bxf1 25. Rxf1 Rae8 26. h4
+gxh4 27. Nxh4 Bxf2+ 28. Kh1 Re6 29. Qg4+ Kh7 30. Nh5 Rg8
+31. Qe2 Rf8 32. Qg4 Qg8 33. Qe4+ Kh8 34. g3 Qg5 35. Qe2 Rd6
+36. Kg2 Rdf6 37. Kh3 Bxg3 38. Nxg3 Rxf1 39. Nxf1 Rf4 40. Nf3
+Qg4+ 41. Kh2 Qxf3 42. Qxe5+ Kh7 43. Ng3 Rh4+ 44. Kg1 Rg4
+45. Kh2 Rg7 46. b4 axb4 47. a5 c5 48. a6 c4 49. a7 b3 50. cxb3
+cxb3 51. Qe1 b2 52. Qb1+ Rg6 53. Qe1 b1=Q 54. a8=Q Qc2+
+55. Kh3 Qcg2+ 0-1

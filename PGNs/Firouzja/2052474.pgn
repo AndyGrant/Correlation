@@ -1,0 +1,24 @@
+[Event "GCT Paris Blitz"]
+[Site "Paris FRA"]
+[Date "2021.06.22"]
+[EventDate "2021.06.18"]
+[Round "18.4"]
+[Result "1-0"]
+[White "Fabiano Caruana"]
+[Black "Alireza Firouzja"]
+[ECO "B30"]
+[WhiteElo "2820"]
+[BlackElo "2759"]
+[PlyCount "130"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. b3 d5 6. e5 Ne7 7. d3 Qc7 8. Qe2
+Nf5 9. O-O Nd4 10. Nxd4 cxd4 11. Nd2 c5 12. Nf3 h6 13. h4 Be7 14. Bf4 Bb7 15.
+Bg3 g5 16. h5 O-O-O 17. Nh2 Kb8 18. Ng4 Rc8 19. f3 c4 20. Bf2 cxd3 21. cxd3 Qc2
+22. Qxc2 Rxc2 23. Bxd4 Ba6 24. Rfc1 Bxd3 25. Rxc2 Bxc2 26. Rc1 Bf5 27. Bxa7+ Kb7
+28. Bd4 Ba3 29. Rf1 Ka6 30. Ne3 Bd3 31. Rf2 Rc8 32. Ng4 Bf8 33. f4 gxf4 34. Rxf4
+Be2 35. Kf2 Rc2 36. Kg3 Rd2 37. Be3 Rd3 38. Kf2 Bd1 39. Rxf7 Bxg4 40. Rxf8 Bxh5
+41. Bxh6 Rc3 42. Rb8 Rc2+ 43. Kg3 Bg6 44. Be3 Be4 45. b4 Rc3 46. Kf4 Rc4 47.
+Rb6+ Ka7 48. Rxe6+ Kb7 49. Bc5 Bb1+ 50. Kg5 d4 51. Rd6 d3 52. e6 Re4 53. Kf6
+Bxa2 54. e7 Bc4 55. g4 Re2 56. g5 Rf2+ 57. Kg6 Re2 58. Rd8 Bb5 59. Kf7 d2 60. g6
+Ba4 61. g7 d1=Q 62. Rxd1 Bxd1 63. e8=Q Bb3+ 64. Kf8 Rf2+ 65. Bxf2 1-0
+

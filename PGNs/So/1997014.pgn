@@ -1,0 +1,17 @@
+[Event "Clutch International"]
+[Site "lichess.org INT"]
+[Date "2020.06.08"]
+[EventDate "2020.06.06"]
+[Round "1.12"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Maxime Vachier-Lagrave"]
+[ECO "B00"]
+[WhiteElo "2770"]
+[BlackElo "2778"]
+[PlyCount "29"]
+
+1. d4 Nc6 2. e4 e5 3. dxe5 Nxe5 4. Nf3 Qf6 5. Nc3 Nxf3+
+6. Qxf3 Qxf3 7. gxf3 c6 8. Rg1 Ne7 9. Be3 d5 10. exd5 Nf5
+11. O-O-O Be7 12. Bf4 Bd7 13. Bh3 O-O-O 14. dxc6 bxc6 15. Rxd7
+1-0

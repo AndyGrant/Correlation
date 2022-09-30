@@ -1,0 +1,22 @@
+[Event "Champions Showdown 9LX"]
+[Site "Saint Louis, MO USA"]
+[Date "2022.09.14"]
+[EventDate "2022.09.14"]
+[Round "2.4"]
+[Result "1-0"]
+[White "Ian Nepomniachtchi"]
+[Black "Levon Aronian"]
+[ECO "?"]
+[WhiteElo "2792"]
+[BlackElo "2759"]
+[PlyCount "70"]
+[SetUp "1"]
+[FEN "rbbnknrq/pppppppp/8/8/8/8/PPPPPPPP/RBBNKNRQ w GAga - 0 1"]
+
+1. d4 g6 2. c3 e5 3. dxe5 Qxe5 4. Ng3 Nfe6 5. O-O a5 6. e4 Ba7 7. Be3 Nf4
+8. Bxa7 Rxa7 9. Ne3 d6 10. Re1 O-O 11. Bc2 a4 12. a3 Qb5 13. Rab1 Be6 14.
+h4 Ba2 15. Ra1 Qxb2 16. h5 Bb3 17. Qh4 Nde6 18. Qf6 Ra5 19. Reb1 Qxc2 20.
+Nxc2 Bxc2 21. Rxb7 Nxh5 22. Nxh5 Rxh5 23. Re1 Re5 24. f3 Ng7 25. Rxc7 Ne8
+26. Qd8 Nxc7 27. Qxd6 Ree8 28. Qxc7 Rc8 29. Qa5 Bb3 30. Re3 Rfd8 31. f4 Rd2
+32. Qe5 Rdd8 33. f5 Re8 34. Qf4 Rc4 35. f6 1-0
+

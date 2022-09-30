@@ -1,0 +1,27 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.13"]
+[EventDate "2021.03.13"]
+[Round "2.1"]
+[Result "1/2-1/2"]
+[White "Anish Giri"]
+[Black "Alireza Firouzja"]
+[ECO "B67"]
+[WhiteElo "2776"]
+[BlackElo "2759"]
+[PlyCount "132"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Bd7 9. Kb1 Nxd4 10. Qxd4 h6 11. Bd2 b5
+12. f3 Qb8 13. h4 b4 14. Ne2 a5 15. g4 e5 16. Qg1 Be6 17. g5
+Nh5 18. Bh3 Qc8 19. Bxe6 Qxe6 20. f4 Rc8 21. b3 g6 22. Qb6 Bg7
+23. gxh6 Bxh6 24. fxe5 Bg7 25. Qb5+ Kf8 26. Qxa5 Bxe5 27. Bxb4
+Kg7 28. Qd5 Qg4 29. Qd3 Nf6 30. Nc3 Rxh4 31. Rxh4 Qxh4 32. a4
+Qg4 33. Re1 Qh4 34. Nb5 Bg3 35. Re2 Qh1+ 36. Ka2 Be5 37. c3
+Ne8 38. Rf2 Qh4 39. Qf3 Qe7 40. Rd2 Rc6 41. Nd4 Ra6 42. Rg2
+Qb7 43. Qd3 Kg8 44. Re2 Nf6 45. Nf3 Bf4 46. e5 dxe5 47. Nxe5
+Nd5 48. Ng4 Qxb4 49. Qxd5 Qxc3 50. Rf2 g5 51. Qf5 Rb6 52. Qc2
+Qxc2+ 53. Rxc2 f5 54. Nf2 g4 55. Rc4 Be3 56. Nxg4 fxg4
+57. Rxg4+ Kf7 58. b4 Ke7 59. Re4+ Re6 60. Rxe6+ Kxe6 61. a5
+Kd6 62. Kb3 Kc6 63. Kc4 Bf2 64. b5+ Kb7 65. b6 Bxb6 66. axb6
+Kxb6 1/2-1/2

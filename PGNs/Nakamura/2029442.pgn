@@ -1,0 +1,23 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.13"]
+[EventDate "2021.03.13"]
+[Round "3.5"]
+[Result "1/2-1/2"]
+[White "Hikaru Nakamura"]
+[Black "Shakhriyar Mamedyarov"]
+[ECO "C41"]
+[WhiteElo "2736"]
+[BlackElo "2770"]
+[PlyCount "95"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bf4 Bg7
+7. Qd2 Nc6 8. Nxc6 bxc6 9. Bc4 O-O 10. O-O-O Be6 11. Bb3 Rb8
+12. e5 Nd5 13. Nxd5 cxd5 14. Rhe1 dxe5 15. Bxe5 Bxe5 16. Rxe5
+c6 17. f4 a5 18. Qe3 Re8 19. h3 Qb6 20. Qxb6 Rxb6 21. c4 a4
+22. Bxa4 dxc4 23. Rc5 Ra8 24. Rxc6 Rb4 25. b3 cxb3 26. Bxb3
+Bxb3 27. axb3 Ra1+ 28. Kc2 Ra2+ 29. Kc3 Rxf4 30. Rc4 Rff2
+31. g4 Rf3+ 32. Rd3 Rxd3+ 33. Kxd3 Rh2 34. b4 Rxh3+ 35. Kd4 h5
+36. gxh5 Rxh5 37. Rc5 Rh1 38. b5 Kg7 39. Kd5 f5 40. b6 Rb1
+41. Kc6 f4 42. b7 f3 43. Rc3 f2 44. Rf3 Rc1+ 45. Kd6 Rb1
+46. Kc6 Rc1+ 47. Kd6 Rb1 48. Kc6 1/2-1/2

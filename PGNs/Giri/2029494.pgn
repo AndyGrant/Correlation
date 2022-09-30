@@ -1,0 +1,23 @@
+[Event "Magnus Carlsen Invitational"]
+[Site "chess24.com INT"]
+[Date "2021.03.14"]
+[EventDate "2021.03.13"]
+[Round "10.1"]
+[Result "1-0"]
+[White "Anish Giri"]
+[Black "Shakhriyar Mamedyarov"]
+[ECO "B45"]
+[WhiteElo "2776"]
+[BlackElo "2770"]
+[PlyCount "93"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Ndb5
+Bb4 7. a3 Bxc3+ 8. Nxc3 d5 9. Bd3 O-O 10. O-O d4 11. Ne2 e5
+12. h3 Re8 13. b4 Nd7 14. f4 exf4 15. Bxf4 Nde5 16. b5 Na5
+17. Rb1 Nec4 18. Bxc4 Nxc4 19. Qd3 Be6 20. Nxd4 Nxa3 21. Rb4
+Bc4 22. Rxc4 Nxc4 23. Qxc4 Rxe4 24. c3 a6 25. bxa6 Rxa6
+26. Bg3 Qd7 27. Kh2 h6 28. Qd3 Re8 29. Rf5 Rg6 30. Qf3 Rg5
+31. Rf4 b5 32. Bh4 Rg6 33. Nf5 Kh7 34. Bf2 Qc7 35. Bg3 Qc6
+36. Nd4 Qxf3 37. Rxf3 Rb6 38. Rxf7 b4 39. cxb4 Rxb4 40. Rd7
+Rb2 41. Nf5 Kg6 42. Ne7+ Kh7 43. h4 Re2 44. Nd5 Kg8 45. Kh3
+Rf8 46. Nf4 Rfe8 47. Nxe2 1-0

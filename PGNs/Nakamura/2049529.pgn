@@ -1,0 +1,27 @@
+[Event "FTX Crypto Cup"]
+[Site "chess24.com INT"]
+[Date "2021.05.23"]
+[EventDate "2021.05.23"]
+[Round "3.4"]
+[Result "0-1"]
+[White "Ian Nepomniachtchi"]
+[Black "Hikaru Nakamura"]
+[ECO "C67"]
+[WhiteElo "2792"]
+[BlackElo "2736"]
+[PlyCount "138"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Ba4
+exd4 7. c3 b5 8. Bc2 Be7 9. Re1 O-O 10. a3 Bb7 11. cxd4 Bf6
+12. Nc3 Re8 13. Rxe8+ Qxe8 14. Nd5 Bd8 15. Qd3 f5 16. Bf4 Ne7
+17. Nc3 a6 18. Re1 Qg6 19. d5 Nc4 20. Nd4 Qf7 21. Nxf5 Nxf5
+22. Qxf5 Qxf5 23. Bxf5 Nb6 24. Re8+ Kf7 25. Rxd8 Rxd8 26. Bxc7
+Re8 27. Ne4 Nc4 28. f3 Bxd5 29. Ng5+ Kf6 30. Bxd7 Re1+ 31. Kf2
+Rb1 32. Bd8+ Ke5 33. b4 Kd6 34. Bc8 Rb2+ 35. Kg3 Ne3 36. Bxa6
+h6 37. Ne4+ Bxe4 38. fxe4 Kc6 39. e5 Rd2 40. Ba5 Ra2 41. e6
+Nd5 42. Bc8 Rxa3+ 43. Kg4 Kd6 44. Ba6 Ra2 45. g3 Rxh2 46. Bxb5
+Kxe6 47. Bc4 Ke5 48. Bxd5 Kxd5 49. Kf5 Rh5+ 50. Kf4 Ke6
+51. Bb6 Rf5+ 52. Ke4 h5 53. Bd8 Rb5 54. Ba5 Rg5 55. Kf3 Rf5+
+56. Kg2 Rb5 57. Kh3 Kf5 58. Kh4 g6 59. g4+ hxg4 60. Kg3 Rd5
+61. Bb6 Rd3+ 62. Kg2 Rb3 63. Bc5 g3 64. Kh3 Kf4 65. Bd6+ Kf3
+66. Bxg3 Rxb4 67. Bd6 Rd4 68. Ba3 g5 69. Kh2 g4 0-1

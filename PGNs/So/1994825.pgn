@@ -1,0 +1,20 @@
+[Event "FIDE Chess.com Online Nations Cup"]
+[Site "chess.com INT"]
+[Date "2020.05.05"]
+[EventDate "2020.05.05"]
+[Round "2.1"]
+[Result "1/2-1/2"]
+[White "Dmitry Andreikin"]
+[Black "Wesley So"]
+[ECO "D85"]
+[WhiteElo "2726"]
+[BlackElo "2770"]
+[PlyCount "67"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3
+Bg7 7. Nf3 c5 8. Be2 Nc6 9. d5 Bxc3+ 10. Bd2 Bxa1 11. Qxa1 Nd4
+12. Nxd4 cxd4 13. Qxd4 O-O 14. O-O Qb6 15. Qa1 Bd7 16. Rb1 Qc7
+17. Bh6 f6 18. Bxf8 Kxf8 19. Qb2 b6 20. Rc1 Qf4 21. Qa3 Qxe4
+22. Bf3 Qe5 23. Qa6 Qf4 24. Rc4 Qf5 25. h3 Qb1+ 26. Kh2 Bb5
+27. Qb7 Bxc4 28. Qxa8+ Kf7 29. Qh8 Qf5 30. Qxh7+ Kf8 31. Qh8+
+Kf7 32. Qh7+ Kf8 33. Qh8+ Kf7 34. Qh7+ 1/2-1/2

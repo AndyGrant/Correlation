@@ -1,0 +1,17 @@
+[Event "New In Chess Classic"]
+[Site "chess24.com INT"]
+[Date "2021.04.24"]
+[EventDate "2021.04.24"]
+[Round "2.2"]
+[Result "0-1"]
+[White "Wesley So"]
+[Black "Jan-Krzysztof Duda"]
+[ECO "A46"]
+[WhiteElo "2770"]
+[BlackElo "2729"]
+[PlyCount "40"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 Qb6 5. Nc3 cxd4 6. exd4
+Qxb2 7. Nb5 Bb4+ 8. Nd2 Nd5 9. Rb1 Qxa2 10. Rxb4 Nxb4 11. Nd6+
+Ke7 12. Bc4 Nxc2+ 13. Kf1 Qa1 14. Qxa1 Nxa1 15. Ke2 Nc2 16. d5
+Na6 17. Rc1 Nab4 18. Nf3 b6 19. Bb3 Ba6+ 20. Kd2 Nd3 0-1

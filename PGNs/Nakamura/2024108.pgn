@@ -1,0 +1,25 @@
+[Event "Opera Euro Rapid"]
+[Site "chess24.com INT"]
+[Date "2021.02.08"]
+[EventDate "2021.02.06"]
+[Round "15.4"]
+[Result "0-1"]
+[White "Hikaru Nakamura"]
+[Black "Samuel Shankland"]
+[ECO "B67"]
+[WhiteElo "2736"]
+[BlackElo "2691"]
+[PlyCount "115"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6
+7. Qd2 a6 8. O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. h4 Qc7
+12. Qd2 b5 13. Kb1 b4 14. Ne2 a5 15. c4 bxc3 16. Nxc3 Rb8
+17. a4 h6 18. Be3 O-O 19. Nb5 Qb7 20. Bd3 Rfc8 21. Rc1 d5
+22. e5 Bb4 23. Qf2 Ne8 24. Ba7 Rxc1+ 25. Rxc1 Rc8 26. Rxc8
+Qxc8 27. h5 Kf8 28. g4 Qc6 29. Bb6 Bc8 30. Na7 Qxa4 31. Qe2
+Qd7 32. Qc2 Bb7 33. Bb5 Qe7 34. Qh7 f6 35. Qh8+ Kf7 36. Bd3
+Qf8 37. Qh7 fxe5 38. Bd8 e4 39. fxe4 Qd6 40. Bh4 dxe4 41. Bc2
+Qa6 42. g5 hxg5 43. Bxg5 Qxa7 44. Qg6+ Kf8 45. h6 Qg1+ 46. Ka2
+Bd5+ 47. b3 Qf2 48. Kb1 Bc3 49. Bc1 gxh6 50. Qxh6+ Kg8
+51. Qg5+ Ng7 52. Qd8+ Qf8 53. Qc7 Bf6 54. Qxa5 Nf5 55. Ba3 Qc8
+56. Bc5 Nd4 57. Bd1 Nxb3 58. Bxb3 0-1

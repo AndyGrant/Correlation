@@ -1,0 +1,24 @@
+[Event "FIDE Online Olympiad"]
+[Site "Chess.com"]
+[Date "2020.08.21"]
+[EventDate "2020.08.21"]
+[Round "3"]
+[Result "1-0"]
+[White "Wesley So"]
+[Black "Daniele Vocaturo"]
+[ECO "B04"]
+[WhiteElo "2741"]
+[BlackElo "2584"]
+[Source "Chess-Results"]
+[PlyCount "91"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7
+7. Ng5 e6 8. Qf3 Qe7 9. Ne4 dxe5 10. Bg5 Qb4+ 11. c3 Qa5
+12. Bf6 O-O 13. Bxg7 Kxg7 14. Qf6+ Kg8 15. Qxe5 Qxe5 16. dxe5
+N8d7 17. f4 a5 18. Nbd2 a4 19. Bc2 Nd5 20. g3 b5 21. Kf2 Bb7
+22. Rhe1 Ra6 23. Rad1 f6 24. exf6 e5 25. fxe5 Nxe5 26. Nc5
+Ng4+ 27. Kg1 Nde3 28. Nxa6 Nxc2 29. Re6 Bc8 30. Rc6 Bb7
+31. Rxc7 Bxa6 32. Ne4 Bc8 33. h3 Nge3 34. Rd2 Bxh3 35. Ng5
+Rxf6 36. Rd8+ Rf8 37. Rxf8+ Kxf8 38. Nxh3 Nc4 39. Rxh7 Nxb2
+40. Nf4 b4 41. cxb4 Nxb4 42. Rb7 N2d3 43. a3 Nxf4 44. Rxb4
+Ne2+ 45. Kg2 Nc3 46. Rc4 1-0

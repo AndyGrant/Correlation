@@ -2,14 +2,16 @@
 
 import chess
 import chess.pgn
-import time, os, json
 import multiprocessing
+import time, os, json, sys
 
 from subprocess import Popen, PIPE
 
 THREADS = multiprocessing.cpu_count()
 PLAYERS = ['Carlsen', 'Firouzja', 'Giri', 'Liren', 'Nakamura', 'Nepomniachtchi', 'Niemann', 'So']
-ENGINE  = './Ethereal-13.00'
+ENGINE  = './Ethereal'
+DEPTH   = 18
+MULTIPV = 3
 
 class Engine():
 
@@ -44,8 +46,7 @@ class Engine():
 
 def process_pgns(player, filenames, engine_name):
     for filename in filenames:
-        try: process_pgn(player, filename, engine_name)
-        except: print ('Error processing %s/%s' % (player, filename))
+        process_pgn(player, filename, engine_name)
 
 def process_pgn(player, filename, engine_name):
 
@@ -57,11 +58,7 @@ def process_pgn(player, filename, engine_name):
 
     engine = Engine(engine_name)
 
-    engine.uci_ready()
-    engine.write_line('setoption name MultiPV value 3\n')
-    engine.uci_ready()
-
-    with open('%s/%s' % (player, filename)) as fin:
+    with open(os.path.join('PGNs', player, filename)) as fin:
         game = chess.pgn.read_game(fin)
 
     data = {
@@ -73,8 +70,14 @@ def process_pgn(player, filename, engine_name):
 
     for fen, move in extract_positions_for_player(player, game):
 
-        output = engine.uci_search(fen, depth=18)
-        table = parse_multipv_table(output, depths=[14, 16, 18])
+        for mpv in range(MULTIPV, 256, 4):
+
+            engine.write_line('setoption name MultiPV value %d\n' % (mpv))
+            output = engine.uci_search(fen, DEPTH)
+            table = parse_multipv_table(output)
+
+            if move in [f[0] for f in table]:
+                break
 
         data['played'].append(move)
         data['positions'].append(fen)
@@ -106,26 +109,23 @@ def extract_positions_for_player(player, game):
     if is_black:
         return [(fen, move) for fen, move in positions if ' b ' in fen]
 
-def parse_multipv_table(output, depths):
+def parse_multipv_table(output):
 
-    table = { depth : [] for depth in depths }
+    table = []
 
     for line in output:
 
         if any([f in line for f in ['lowerbound', 'upperbound', 'currmove']]):
             continue
 
-        if not any([' depth %d ' % (depth) in line for depth in depths]):
-            continue
-
-        if any ([f not in line for f in [' score ', ' pv ', ' depth ']]):
+        if any ([f not in line for f in [' score ', ' pv ', ' depth %d ' % (DEPTH)]]):
             continue
 
         depth = line.split(' depth ')[1].split()[ 0]
         score = line.split(' score ')[1].split()[:2]
         move  = line.split(' pv '   )[1].split()[ 0]
 
-        table[int(depth)].append((move, score))
+        table.append((move, score))
 
     return table
 
@@ -133,7 +133,7 @@ def main():
 
     for player in PLAYERS:
 
-        files = list(filter(lambda x: x.endswith('.pgn'), os.listdir(player)))
+        files = list(filter(lambda x: x.endswith('.pgn'), os.listdir(os.path.join('PGNs', player))))
 
         chunks = [
             [files[x] for x in range(f, len(files), THREADS)]
@@ -147,8 +147,11 @@ def main():
             for f in range(THREADS)
         ]
 
-        for worker in workers: worker.start()
-        for worker in workers: worker.join()
+        for worker in workers:
+            worker.start()
+
+        for worker in workers:
+            worker.join()
 
 if __name__ == '__main__':
     main()

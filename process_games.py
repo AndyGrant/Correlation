@@ -10,7 +10,7 @@ from subprocess import Popen, PIPE
 THREADS = multiprocessing.cpu_count()
 PLAYERS = ['Carlsen', 'Firouzja', 'Giri', 'Liren', 'Nakamura', 'Nepomniachtchi', 'Niemann', 'So']
 ENGINE  = './Ethereal-13.75'
-DEPTH   = 4
+DEPTH   = 18
 MULTIPV = 3
 
 class Engine():

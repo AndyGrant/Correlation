@@ -9,8 +9,8 @@ from subprocess import Popen, PIPE
 
 THREADS = multiprocessing.cpu_count()
 PLAYERS = ['Carlsen', 'Firouzja', 'Giri', 'Liren', 'Nakamura', 'Nepomniachtchi', 'Niemann', 'So']
-ENGINE  = './Ethereal'
-DEPTH   = 18
+ENGINE  = './Ethereal-13.75'
+DEPTH   = 4
 MULTIPV = 3
 
 class Engine():
@@ -33,6 +33,11 @@ class Engine():
     def uci_search(self, fen, depth):
         self.uci_ready()
         self.write_line('position fen %s\ngo depth %d\n' % (fen, depth))
+        return list(self.uci_bestmove())
+
+    def uci_searchmoves(self, fen, depth, moves):
+        self.uci_ready()
+        self.write_line('position fen %s\ngo depth %d searchmoves %s\n' % (fen, depth, ' '.join(moves)))
         return list(self.uci_bestmove())
 
     def uci_bestmove(self):
@@ -70,14 +75,15 @@ def process_pgn(player, filename, engine_name):
 
     for fen, move in extract_positions_for_player(player, game):
 
-        for mpv in range(MULTIPV, 256, 4):
+        engine.write_line('setoption name MultiPV value %d\n' % (MULTIPV))
+        output = engine.uci_search(fen, DEPTH)
+        table = parse_multipv_table(output)
 
-            engine.write_line('setoption name MultiPV value %d\n' % (mpv))
-            output = engine.uci_search(fen, DEPTH)
+        if move not in [f[0] for f in table]:
+            moves = [move] + [f[0] for f in table]
+            engine.write_line('setoption name MultiPV value %d\n' % (len(moves)))
+            output = engine.uci_searchmoves(fen, DEPTH, moves)
             table = parse_multipv_table(output)
-
-            if move in [f[0] for f in table]:
-                break
 
         data['played'].append(move)
         data['positions'].append(fen)
